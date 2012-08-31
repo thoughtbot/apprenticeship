@@ -1,69 +1,102 @@
 #Welcome to apprentice.io!
 
-We're excited to have you here. This packet contains information that past apprentices have found helpful.
+We're excited to have you here. This packet contains information that past
+apprentices have found helpful.
 
-We recommend looking through it now and referring back to it later. Think of this packet as your Hitchhiker's Guide during your apprenticeship. Don't Panic!
+We recommend looking through it now and referring back to it later. Think of
+this packet as your Hitchhiker's Guide during your apprenticeship. Don't Panic!
 
 ![don't panic](http://www.csd.uwo.ca/Infocom/Images/hhgttg.jpg)
 
-This packet is available at https://github.com/thoughtbot/apprentice-onboarding. Feel free to file a pull request to improve any aspect of it, no matter how tiny.
+This packet is available at https://github.com/thoughtbot/apprentice-onboarding.
+Feel free to file a pull request to improve any aspect of it, no matter how tiny.
 
 #The Plan
 ##Your mentor
-Your first mentor's name is: ___________________________________. You'll get a new mentor each month.
+Your first mentor's name is: ___________________________________. You'll get a
+new mentor each month.
 
 This person is your guide for the month.
 
 ## How am I doing?
-You should meet with your mentor once a week on Friday to talk through your progress.
+You should meet with your mentor once a week on Friday to talk through your
+progress.
 
-We encourage you to create a backpack page where you list your goals for the next week and how you did on your goals for the past week. This is a good document to discuss with your mentor each week. For an example of how previous apprentices have done this, search in Backpack.
+We encourage you to create a backpack page where you list your goals for the
+next week and how you did on your goals for the past week. This is a good
+document to discuss with your mentor each week. For an example of how previous
+apprentices have done this, search in Backpack.  
 
-When you switch mentors, you will have a Mentor Hand-off. This is a meeting with both mentors to talk through the previous month and the plan for the next month.
+When you switch mentors, you will have a Mentor Hand-off. This is a meeting with
+both mentors to talk through the previous month and the plan for the next month.
 
 ## Pairing during the week
-You will work with them on client projects Monday-Thursday, traveling with them to the client site if necessary/appropriate. Your mentor will pair with you during the week as you work on user stories.
+You will work with them on client projects Monday-Thursday, traveling with them
+to the client site if necessary/appropriate. Your mentor will pair with you
+during the week as you work on user stories.  
 
-Pairing is the fastest and most effective way to learn, so it should be a priority for you and your mentor. However, do not expect to pair 100% of the time.
-
-One particularly effective method of pairing is Ping-Ponging. The idea is for Person 1 to write a test, Person 2 writes the code to make the test pass. Then Person 2 writes the next test and Person 1 writes the code to make the test pass. Rinse, repeat.
+Pairing is the fastest and most effective way to learn, so it should be a
+priority for you and your mentor. However, do not expect to pair 100% of the
+time.  One particularly effective method of pairing is Ping-Ponging. The idea is
+for Person 1 to write a test, Person 2 writes the code to make the test pass.
+Then Person 2 writes the next test and Person 1 writes the code to make the test
+pass. Rinse, repeat.
 
 ## Self-guided learning
-Whenever appropriate or applicable to whatever you are working on, you should take time away from client work to do some self-guided learning. This can involve reading chapters in books, attending workshops, or learning about and trying out a technique/library.
+Whenever appropriate or applicable to whatever you are working on, you should
+take time away from client work to do some self-guided learning. This can
+involve reading chapters in books, attending workshops, or learning about and
+trying out a technique/library.  
 
 We recommend starting with Apprenticeship Patterns. 
 
 ##Workshops
-We encourage learning. We run workshops (learn.thoughtbot.com), which are free for you. You can and should take advantage of these.
+We encourage learning. We run workshops (learn.thoughtbot.com), which are free
+for you. You can and should take advantage of these.
 
-We also have a partnership with Bocoup, where you can take any of their workshops (training.bocoup.com) for free as well.
+We also have a partnership with Bocoup, where you can take any of their
+workshops (training.bocoup.com) for free as well.
 
-We have Friday meetings at 3(ish)PM where designers/developers (in separate meetings) get together to improve their skills. It is impossible to overemphasize how much learning we want you to do.
+We have Friday meetings at 3(ish)PM where designers/developers (in separate
+meetings) get together to improve their skills. It is impossible to
+overemphasize how much learning we want you to do.
 
 ##Get a job
 We also recognize that you want to be employed at the end of your
 apprenticeship.
 
-Your entire third month is focused on finding a job. Chad Pytel will meet with you at the beginning of your third month to discuss your options and help you find employers. While you will still be learning, the emphasis is more on employment.
+Your entire third month is focused on finding a job. Chad Pytel will meet with
+you at the beginning of your third month to discuss your options and help you
+find employers. While you will still be learning, the emphasis is more on
+employment.
 
-We prefer that the first two months, conversely, are focused on learning and not finding employment.
+We prefer that the first two months, conversely, are focused on learning and
+not finding employment.
 
 
 #Getting the Most Out of apprentice.io
 ## Expectations
-Your apprenticeship is an opportunity. The more you put into it, the more you will get out of it.
+Your apprenticeship is an opportunity. The more you put into it, the more you
+will get out of it.  
 
-There is some structure to guide you through the program and also people available to help you along the way, but the engine of this experience is your effort.
+There is some structure to guide you through the program and also people
+available to help you along the way, but the engine of this experience is your
+effort.  
 
-You should expect this to be a mentally intense period of your life where you are learning a great deal. Hard work pays off.
+You should expect this to be a mentally intense period of your life where you
+are learning a great deal. Hard work pays off.
 
 ## Your trail map
-On your first day, fork the Trail Map (github.com/thoughtbot/trail-map) and edit it with
-your mentor to find trails that match your goals. It can be any of trails, but stick with them and track your progress. Also, submitting pull requests back to the main repo will strengthen the trail map for everyone.
+On your first day, fork the Trail Map (github.com/thoughtbot/trail-map) and edit
+it with your mentor to find trails that match your goals. It can be any of
+trails, but stick with them and track your progress. Also, submitting pull
+requests back to the main repo will strengthen the trail map for everyone.
 
 ## Feedback
 
-It's not easy, but you should get comfortable asking for and receiving feedback. People are nice and none of it is personal. It's a great way to develop professionally.
+It's not easy, but you should get comfortable asking for and receiving feedback.
+People are nice and none of it is personal. It's a great way to develop
+professionally.
 
 
 # Tools and Weapons
@@ -101,11 +134,12 @@ share with everyone at thoughtbot. It's an easy way to learn something for free.
 Our company blog (http://robots.thoughtbot.com) is actually hosted on Tumblr. In
 order to make a blog post, you need a tumblr account. When you have an account,
 ask anyone at the company to give you access to the blog. We *strongly*
-encourage you to make a blog post! Even things that you think are silly, like a
-git tip that takes 3 lines and that you're *sure* everyone else knows, is worthy
-of a blog post. Often our most popular blog posts are the ones that we thought
-were the silliest. For example, http://j.mp/LP72NP is pretty dumb but got 18
-comments.
+encourage you to make a blog post!
+
+Even things that you think are silly, like a git tip that takes 3 lines and that
+you're *sure* everyone else knows, is worthy of a blog post. Often our most
+popular blog posts are the ones that we thought were the silliest. For example,
+http://j.mp/LP72NP is pretty dumb but got 18 comments.
 
 We also have a semi-secret blog of Campfire quotes at
 http://tinyrobots.thoughtbot.com.
@@ -150,8 +184,8 @@ welcome in every room.
 
 ### Basecamp
 
-Basecamp is where we put ideas that we want to discuss, like
-product ideas or a new Git workflow.
+Basecamp is where we put ideas that we want to discuss, like product ideas or a
+new Git workflow.
 
 ### Backpack
 
@@ -173,12 +207,16 @@ example, Josh Clayton has an extensive configuration for tmux in his dotfiles:
 https://github.com/joshuaclayton/dotfiles/blob/master/tmux.conf.
 
 # Community
-Part of your apprenticeship is learning to be part of a development community. This could be a Ruby Meetup Group, company, or project team.
+Part of your apprenticeship is learning to be part of a development community.
+This could be a Ruby Meetup Group, company, or project team.
 
 ## Meeting people is easy
-We are a friendly bunch and we'd like to get to know you better! That being said, it's easy to be intimidated or uncomfortable in a new environment. Some things you should try:
+We are a friendly bunch and we'd like to get to know you better! That being
+said, it's easy to feel intimidated or uncomfortable in a new environment. Some
+things you should try:
 
-* Go on coffee walks: we often have informal "coffee walks" at 3-ish, where people go for a walk (coffee optional) and chat about random topics.
+* Go on coffee walks: we often have informal "coffee walks" at 3-ish, where
+  people go for a walk (coffee optional) and chat about random topics.
 
 * Go get lunch/coffee/breakfast with anyone in the office.
 
@@ -192,9 +230,9 @@ company (except apprentices).
 
 ## Development Discussions
 
-We have weekly development discussions most Fridays from 3-4pm in a conference room
-upstairs. We discuss topics like how to design object oriented systems and the
-style guide. Development apprentices especially are strongly encouraged to
+We have weekly development discussions most Fridays from 3-4pm in a conference
+room upstairs. We discuss topics like how to design object oriented systems and
+the style guide. Development apprentices especially are strongly encouraged to
 attend.
 
 ## Design Discussions
@@ -216,7 +254,9 @@ We encourage you to propose changes to the apprentice process, including hiring,
 onboarding, and anything else that you think could be better. Everyone at
 thoughtbot is constantly trying to do a better job and we welcome feedback.
 
-As an apprentice, you have much better insight into what could make the process better for you than does someone who's been working here for five years.
+As an apprentice, you have much better insight into what could make the process
+better for you than does someone who's been working here for five years.
 
-Feedback is always, always appreciated on everything at thoughtbot. If you have feedback on the overall apprentice program, please contact Gabe Berke-Williams, the head of the apprentice.io program.
-
+Feedback is always, always appreciated on everything at thoughtbot. If you have
+feedback on the overall apprentice program, please contact Gabe Berke-Williams,
+the head of the apprentice.io program.
