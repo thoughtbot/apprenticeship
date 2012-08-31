@@ -74,10 +74,9 @@ track of what other people are doing.
 
 ## Dropbox (http://dropbox.com)
 
-Ask Matt Jankowski, Chad Pytel, Joe Ferris, or Dan Croak for access to the
-shared "Library" Dropbox folder. This folder contains workshops, books, papers,
-and other resources that we've purchased in the past and now share with everyone
-at thoughtbot. It's an easy way to learn something for free.
+You have access to the "Library" Dropbox folder. This folder contains workshops, 
+books, papers, and other resources that we've purchased in the past and now 
+share with everyone at thoughtbot. It's an easy way to learn something for free.
 
 ## Tumblr (http://tumblr.com)
 
