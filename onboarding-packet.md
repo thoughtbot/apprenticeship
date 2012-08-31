@@ -74,8 +74,8 @@ track of what other people are doing.
 
 ## Dropbox (http://dropbox.com)
 
-You have access to the "Library" Dropbox folder. This folder contains workshops, 
-books, papers, and other resources that we've purchased in the past and now 
+You have access to the "Library" Dropbox folder. This folder contains workshops,
+books, papers, and other resources that we've purchased in the past and now
 share with everyone at thoughtbot. It's an easy way to learn something for free.
 
 ## Tumblr (http://tumblr.com)
