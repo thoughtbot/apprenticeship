@@ -1,5 +1,6 @@
+OUTPUT_DIRECTORY_NAME = 'pdf'
 SOURCE_FILE_NAMES = ['onboarding-packet.md'].join(' ')
-BOOK_FILE_NAME = 'onboarding-packet'
+OUTPUT_FILE_PATH = File.join('.', OUTPUT_DIRECTORY_NAME, 'onboarding-packet.pdf')
 
 PDF_BUILDER = 'pandoc'
 PDF_BUILDER_FLAGS = [
@@ -8,20 +9,20 @@ PDF_BUILDER_FLAGS = [
   '--listings'
 ].join(' ')
 
-directory 'book'
+directory OUTPUT_DIRECTORY_NAME
 
-file 'onboarding.pdf' => [:clean, 'book']  do
-  `#{PDF_BUILDER} #{PDF_BUILDER_FLAGS} #{SOURCE_FILE_NAMES} -o ./book/#{BOOK_FILE_NAME}.pdf`
+task :regenerate => [:clean, OUTPUT_DIRECTORY_NAME] do
+  `#{PDF_BUILDER} #{PDF_BUILDER_FLAGS} #{SOURCE_FILE_NAMES} -o #{OUTPUT_FILE_PATH}`
 end
 
 task :clean do
-  `rm -f #{BOOK_FILE_NAME}.pdf`
+  `rm -f #{OUTPUT_FILE_PATH}`
 end
 
-task :release => 'onboarding.pdf' do
+task :release => :regenerate do
   puts "Releasing new version to GitHub"
   `git commit -am 'New version of PDF'`
   `git push origin master`
 end
 
-task :default => 'onboarding.pdf'
+task :default => :regenerate
