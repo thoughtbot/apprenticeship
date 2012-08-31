@@ -149,7 +149,7 @@ with a dot, like "~/.bashrc". They are used to configure various programs, e.g.
 dotfiles (https://github.com/thoughtbot/dotfiles), and feel free to fork them.
 We also encourage you to check out your coworkers' dotfiles for inspiration. For
 example, Josh Clayton has an extensive configuration for tmux in his dotfiles:
-https://github.com/joshuaclayton/dotfiles.
+https://github.com/joshuaclayton/dotfiles/blob/master/tmux.conf.
 
 # Learning
 
