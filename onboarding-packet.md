@@ -116,7 +116,8 @@ fine.
 
 Campfire has rooms with a specific purpose:
 
-* Everyone: discuss things that interest everyone.
+* Everyone: discuss things that interest everyone. You should be in this room
+  whenever you are working.
 * Code: discuss your code. When asking a question, pasting your code is
   encouraged.
 * Design: discuss design topics or cool design that you've encountered.
