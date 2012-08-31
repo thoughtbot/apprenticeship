@@ -60,7 +60,7 @@ access to all of them.
 
 ## Google apps
 
-URL: google.com/a/apprentice.io
+URL: http://google.com/a/apprentice.io
 
 You should have received an email with your email (NAME@apprentice.io) and email
 password.
