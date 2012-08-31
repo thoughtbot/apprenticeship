@@ -9,8 +9,8 @@ tiny.
 
 We encourage learning. We run workshops (learn.thoughtbot.com), which are free
 for you. You can and should take advantage of these. We also have a partnership
-Bocoup, where you can take any of their workshops (training.bocoup.com) for free
-as well. We have Friday meetings at 3(ish)PM where designers/developers (in
+with Bocoup, where you can take any of their workshops (training.bocoup.com) for
+free as well. We have Friday meetings at 3(ish)PM where designers/developers (in
 separate meetings) get together to improve their skills. It is impossible to
 overemphasize how much learning we want you to do.
 
