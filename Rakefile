@@ -1,6 +1,3 @@
-require 'date'
-require 'time'
-
 SOURCE_FILE_NAMES = ['onboarding-packet.md'].join(' ')
 BOOK_FILE_NAME = 'onboarding-packet'
 
@@ -23,8 +20,7 @@ end
 
 task :release => 'onboarding.pdf' do
   puts "Releasing new version to GitHub"
-  now = DateTime.now.xmlschema
-  `git commit -am 'New version (#{now})'`
+  `git commit -am 'New version of PDF'`
   `git push origin master`
 end
 
