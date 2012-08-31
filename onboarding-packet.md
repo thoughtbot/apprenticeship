@@ -133,8 +133,7 @@ welcome in every room.
 ## Basecamp
 
 Basecamp is where we put ideas that we want to discuss, like
-product ideas or a new Git workflow. If it's unlikely to change, or isn't up for
-discussion (like our vacation policy), it goes in Backpack.
+product ideas or a new Git workflow.
 
 ## Backpack
 
