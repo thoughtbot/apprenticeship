@@ -19,3 +19,9 @@ Requirements:
 Then:
 
     rake && open book/*.pdf
+
+## Releasing
+
+To build a new PDF and release it to GitHub:
+
+    rake release
