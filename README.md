@@ -4,6 +4,10 @@ This is the onboarding packet for new apprentices. It should be given to them on
 their first day.
 
 
+## Editing
+
+You should edit `onboarding-packet.md`, which is built into a lovely PDF in the `book/` directory.
+
 ## Building
 
 Requirements:
