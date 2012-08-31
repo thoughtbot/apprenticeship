@@ -44,7 +44,7 @@ company (except apprentices).
 Your mentor will help you get your laptop set up. We recommend the laptop script
 available at https://github.com/thoughtbot/laptop.
 
-On day 1, fork the Trail Map (github.com/thoughtbot/trail-map) and edit it with
+On your first day, fork the Trail Map (github.com/thoughtbot/trail-map) and edit it with
 your mentor to find trails that match your goals. It can be any trails, but
 stick with them. Also, submitting pull requests back to the main repo will
 strengthen the trail map for everyone.
