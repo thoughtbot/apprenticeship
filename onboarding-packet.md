@@ -3,6 +3,10 @@ information that past apprentices have found helpful. We recommend looking
 through it now and referring back to it later. Think of this packet as your
 Hitchhiker's Guide during your apprenticeship.
 
+This packet is available at https://github.com/thoughtbot/apprentice-onboarding.
+Feel free to file a pull request to improve any aspect of it, no matter how
+tiny.
+
 We encourage learning. We run workshops (learn.thoughtbot.com), which are free
 for you. You can and should take advantage of these. We also have a partnership
 Bocoup, where you can take any of their workshops (training.bocoup.com) for free
