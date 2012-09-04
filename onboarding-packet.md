@@ -6,8 +6,6 @@ apprentices have found helpful.
 We recommend looking through it now and referring back to it later. Think of
 this packet as your Hitchhiker's Guide during your apprenticeship. Don't Panic!
 
-![don't panic](http://www.csd.uwo.ca/Infocom/Images/hhgttg.jpg)
-
 This packet is available at https://github.com/thoughtbot/apprentice-onboarding.
 Feel free to file a pull request to improve any aspect of it, no matter how tiny.
 
