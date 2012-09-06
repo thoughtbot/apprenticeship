@@ -232,11 +232,16 @@ things you should try:
 
 * Suggest a social event for your project team.
 
+### Friday Lunches
+
+We order lunch for the whole office each Friday! When you arrive, please let our
+office manager Seana (seana@thoughtbot.com) know if you have any allergies
+or dietary restrictions we should be aware of.
+
 ## Who?
 If you're having trouble matching names to faces, check out
 http://thoughtbot.com/about, which has pictures and names of everyone at the
 company (except apprentices).
-
 
 ## Development Discussions
 
