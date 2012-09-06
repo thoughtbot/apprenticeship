@@ -6,7 +6,7 @@ their first day.
 
 ## Editing
 
-You should edit `onboarding-packet.md`, which is built into a lovely PDF in the `book/` directory.
+You should edit `onboarding-packet.md`, which is built into a lovely PDF in the `pdf/` directory.
 
 ## Building
 
