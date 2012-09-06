@@ -23,7 +23,7 @@ progress.
 We encourage you to create a backpack page where you list your goals for the
 next week and how you did on your goals for the past week. This is a good
 document to discuss with your mentor each week. For an example of how previous
-apprentices have done this, search in Backpack.  
+apprentices have done this, search in Backpack.
 
 When you switch mentors, you will have a Mentor Hand-off. This is a meeting with
 both mentors to talk through the previous month and the plan for the next month.
@@ -31,7 +31,7 @@ both mentors to talk through the previous month and the plan for the next month.
 ## Pairing during the week
 You will work with them on client projects Monday-Thursday, traveling with them
 to the client site if necessary/appropriate. Your mentor will pair with you
-during the week as you work on user stories.  
+during the week as you work on user stories.
 
 Pairing is the fastest and most effective way to learn, so it should be a
 priority for you and your mentor. However, do not expect to pair 100% of the
@@ -44,13 +44,16 @@ pass. Rinse, repeat.
 Whenever appropriate or applicable to whatever you are working on, you should
 take time away from client work to do some self-guided learning. This can
 involve reading chapters in books, attending workshops, or learning about and
-trying out a technique/library.  
+trying out a technique/library.
 
-We recommend starting with Apprenticeship Patterns. 
+We recommend starting with Apprenticeship Patterns.
 
 ##Workshops
 We encourage learning. We run workshops (learn.thoughtbot.com), which are free
 for you. You can and should take advantage of these.
+
+When registering for a workshop, use the coupon code APPRENTICE2012 to register
+for free.
 
 We also have a partnership with Bocoup, where you can take any of their
 workshops (training.bocoup.com) for free as well.
@@ -75,11 +78,11 @@ not finding employment.
 #Getting the Most Out of apprentice.io
 ## Expectations
 Your apprenticeship is an opportunity. The more you put into it, the more you
-will get out of it.  
+will get out of it.
 
 There is some structure to guide you through the program and also people
 available to help you along the way, but the engine of this experience is your
-effort.  
+effort.
 
 You should expect this to be a mentally intense period of your life where you
 are learning a great deal. Hard work pays off.
@@ -156,6 +159,15 @@ If any of those sites give you an error, talk to your mentor.
 Once you have access to Backpack, check out this onboarding page:
 https://thoughtbot.backpackit.com/pages/2661936-employee-onboarding. There's
 probably overlap, and we'd love feedback!
+
+## Trajectory
+
+We use Trajectory to manage our projects. Each client has their own
+account, and your mentor will invite you to whichever project you are
+assigned to.
+
+If you'd like to get familiar with Trajectory before your apprenticeship,
+you can create a free account at https://www.apptrajectory.com/plans.
 
 ### Campfire
 
