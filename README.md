@@ -12,9 +12,9 @@ You should edit `onboarding-packet.md`, which is built into a lovely PDF in the 
 
 Requirements:
 * [Pandoc](http://johnmacfarlane.net/pandoc/installing.html)
-* TeX
+* LaTeX
   - Use [BasicTeX](http://www.tug.org/mactex/morepackages.html), which is a much
-    smaller download than full TeX.
+    smaller download than full LaTeX.
 
 Then:
 
