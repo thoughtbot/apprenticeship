@@ -52,6 +52,9 @@ We recommend starting with Apprenticeship Patterns.
 We encourage learning. We run workshops (learn.thoughtbot.com), which are free
 for you. You can and should take advantage of these.
 
+When registering for a workshop, use the coupon code APPRENTICE2012 to register
+for free.
+
 We also have a partnership with Bocoup, where you can take any of their
 workshops (training.bocoup.com) for free as well.
 
@@ -156,6 +159,15 @@ If any of those sites give you an error, talk to your mentor.
 Once you have access to Backpack, check out this onboarding page:
 https://thoughtbot.backpackit.com/pages/2661936-employee-onboarding. There's
 probably overlap, and we'd love feedback!
+
+## Trajectory
+
+We use Trajectory to manage our projects. Each client has their own
+account, and your mentor will invite you to whichever project you are 
+assigned to.
+
+If you'd like to get familiar with Trajectory before your apprenticeship, 
+you can create a free account at https://www.apptrajectory.com/plans. 
 
 ### Campfire
 
