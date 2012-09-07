@@ -1,4 +1,4 @@
-#Welcome to apprentice.io!
+# Welcome to apprentice.io!
 
 We're excited to have you here. This packet contains information that past
 apprentices have found helpful.
@@ -9,9 +9,10 @@ this packet as your Hitchhiker's Guide during your apprenticeship. Don't Panic!
 This packet is available at https://github.com/thoughtbot/apprentice-onboarding.
 Feel free to file a pull request to improve any aspect of it, no matter how tiny.
 
-#The Plan
-##Your mentor
-Your first mentor's name is: ___________________________________. You'll get a
+# The Plan
+
+## Your mentor
+Your first mentor's name is: ________________________________. You'll get a
 new mentor each month.
 
 This person is your guide for the month.
@@ -48,7 +49,7 @@ trying out a technique/library.
 
 We recommend starting with Apprenticeship Patterns.
 
-##Workshops
+## Workshops
 We encourage learning. We run workshops (learn.thoughtbot.com), which are free
 for you. You can and should take advantage of these.
 
@@ -62,7 +63,7 @@ We have Friday meetings at 3(ish)PM where designers/developers (in separate
 meetings) get together to improve their skills. It is impossible to
 overemphasize how much learning we want you to do.
 
-##Get a job
+## Get a job
 We also recognize that you want to be employed at the end of your
 apprenticeship.
 
@@ -75,7 +76,8 @@ We prefer that the first two months, conversely, are focused on learning and
 not finding employment.
 
 
-#Getting the Most Out of apprentice.io
+# Getting the Most Out of apprentice.io
+
 ## Expectations
 Your apprenticeship is an opportunity. The more you put into it, the more you
 will get out of it.
@@ -101,6 +103,7 @@ professionally.
 
 
 # Tools and Weapons
+
 ## Laptop setup
 Your mentor will help you get your laptop set up. We recommend the laptop script
 available at https://github.com/thoughtbot/laptop.
@@ -264,7 +267,8 @@ place to learn something, as well as to practice your public speaking by
 submitting a talk. Speaking at boston.rb is great practice since it's a
 smallish, friendly audience, and it gives your resume a nice bump.
 
-#Improve apprentice.io
+# Improve apprentice.io
+
 We encourage you to propose changes to the apprentice process, including hiring,
 onboarding, and anything else that you think could be better. Everyone at
 thoughtbot is constantly trying to do a better job and we welcome feedback.
