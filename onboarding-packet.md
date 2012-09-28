@@ -283,9 +283,12 @@ also expect to submit a portfolio of work and do some in-person coding/design.
 
 Every company will expect you to share some code samples as part of their
 application process. These take a long time to develop so consider building
-these up over the course of your apprenticship.
+these up over the course of your apprenticship. Your [Breakable
+Toy](http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html) is an
+excellent showcase for your talent.
 
-Guidelines For Developers:
+
+Guidelines for developers:
 * Code samples should be *entirely* your own work
 * Some good ideas are at [RubyQuiz](http://www.rubyquiz.com). This goes without saying, but don't use the published answers (or look at them).
 * Smaller is easier to digest
@@ -305,10 +308,10 @@ Technical interviews will run the gamut from very esoteric to very specific. You
 
 Some general guidelines:
 * Show up 15 minutes early for the interview. If you show up late without an extraordinary reason, you are wasting their time and should expect to get sent home.
-* Clean it up. Developers don't dress well, but if you put on a shirt and maybe a jacket, it shows you care what the interviewee thinks of you.
+* Clean it up. The classic image of the developer has them wearing T-shirts and jeans on a scooter, but if you put on a shirt and maybe a jacket, it shows you care what the interviewee thinks of you.
 * You should care about specific choices and demonstrate reasoning to support them
 * Conversely, you should also be flexible and open minded when considering other's opinions, not combatative or dogmatic.
-* Say so if you don't know the answer, but then try to reason through what might be an answer or where you would find it.
+* Say so if you don't know the answer, but then try to reason through an answer *out loud* or discuss where you would find an answer.
 * You should research the company and your interviewer deeply. Know their online presence, read through their public code, and read up on their tweets. Bring any of this up in conversation casually wherever appropriate. Don't force it and be a weirdo.
 * Prepare some good questions for when they ask you for them. Good questions are not generic or open-ended, demonstrate critical thinking about something they do, understanding of their product/competitors, or are otherwise thoughtful.
 
@@ -320,6 +323,7 @@ Some questions to expect during a developer interview:
 * What causes brittle tests?
 * What is a stub/mock/fake? When would you use each one?
 
+[Here is our internal list of interview questions](https://thoughtbot.backpackit.com/pages/2883297-technical-interviews).
 
 ### How to Reach Out to Companies
 
@@ -348,17 +352,19 @@ Basics of Networking:
 * Get comfortable telling your story. "So what do you do?" is the #1 question. Respond in a positive, short way.
 * If you don't have anything to talk about with someone, keep asking the other person questions.
 * Use "Well I'm going to go get a drink" whenever you don't feel like talking anymore to someone.
-* Email *everyone* you get a card from to say hey and glad you met them.
+* Email *everyone* you get a card from to say "Hey" and you're glad you met.
 * Give your card out liberally. If you don't have one, get some made.
 * Networking is also about helping people. If you know two people who should meet, introduce them.
 * Stay in touch. If an article reminds you of someone or you think they would find it interesting, send it to them.
 * Set up periodic reminders to prompt you to get in touch with people you like and who can be helpful to you. Every 2-3 months is appropriate. Try [followup.cc](http://followup.cc)
 * Everyone will take a coffee meeting with you. Ask them.
 
+If you don't know anyone at a company of interest, you should get to know them
+before you apply.
 
-If you don't know anyone at a company of interest, you should get to know them before you apply.
-
-Find people in common using LinkedIn or asking your colleagues. thoughtbot has firends all over - it's likely someone at the company knows someone at the company you're looking at.
+Find people in common using LinkedIn or asking your colleagues. thoughtbot has
+friends all over - it's likely someone at thoughtbot knows someone at the
+company you're looking at.
 
 ### Evaluating Potential Employers
 
@@ -369,7 +375,6 @@ Some things to think about:
 * Refreshed-looking interviewers
 * Culture of learning/teaching
 * Test-driven culture. This signals high-quality code
-
 
 # Improve apprentice.io
 
