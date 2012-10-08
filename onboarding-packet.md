@@ -50,11 +50,11 @@ trying out a technique/library.
 We recommend starting with Apprenticeship Patterns.
 
 ## Workshops
-We encourage learning. We run workshops (learn.thoughtbot.com), which are free
-for you. You can and should take advantage of these.
+We encourage learning. We run workshops and sell webcasts
+(both on learn.thoughtbot.com), which are free for you. You can and should take
+advantage of these.
 
-When registering for a workshop, use the coupon code APPRENTICE2012 to register
-for free.
+Use the coupon code APPRENTICE2012 to get anything on Learn for free.
 
 We also have a partnership with Bocoup, where you can take any of their
 workshops (training.bocoup.com) for free as well.
@@ -245,7 +245,8 @@ restrictions we should be aware of.
 
 If you're having trouble matching names to faces, check out
 http://thoughtbot.com/about, which has pictures and names of everyone at the
-company (except apprentices).
+company (except apprentices). To see pictures of apprentices, go to
+http://apprentice.io/apprentices.
 
 ## Development Discussions
 
