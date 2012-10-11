@@ -51,13 +51,13 @@ We recommend starting with Apprenticeship Patterns.
 
 ## Workshops
 We encourage learning. We run workshops and sell webcasts
-(both on learn.thoughtbot.com), which are free for you. You can and should take
-advantage of these.
+(both on http://learn.thoughtbot.com), which are free for you. You can and
+should take advantage of these.
 
 Use the coupon code APPRENTICE2012 to get anything on Learn for free.
 
 We also have a partnership with Bocoup, where you can take any of their
-workshops (training.bocoup.com) for free as well.
+workshops (http://training.bocoup.com) for free as well.
 
 We have Friday meetings at 3(ish)PM where designers/developers (in separate
 meetings) get together to improve their skills. It is impossible to
@@ -78,9 +78,9 @@ You should expect this to be a mentally intense period of your life where you
 are learning a great deal. Hard work pays off.
 
 ## Your trail map
-On your first day, fork the Trail Map (github.com/thoughtbot/trail-map) and edit
-it with your mentor to find trails that match your goals. It can be any of
-trails, but stick with them and track your progress. Also, submitting pull
+On your first day, fork the Trail Map (https://github.com/thoughtbot/trail-map)
+and edit it with your mentor to find trails that match your goals. It can be any
+of trails, but stick with them and track your progress. Also, submitting pull
 requests back to the main repo will strengthen the trail map for everyone.
 
 ## Feedback
