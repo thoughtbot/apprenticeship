@@ -12,7 +12,7 @@ Feel free to file a pull request to improve any aspect of it, no matter how tiny
 # The Plan
 
 ## Your mentor
-Your first mentor's name is:                               . You'll get a
+Your first mentor's name is: ______________________________. You'll get a
 new mentor each month.
 
 This person is your guide for the month.
