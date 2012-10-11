@@ -1,19 +1,20 @@
 OUTPUT_DIRECTORY_NAME = 'pdf'
-SOURCE_FILE_NAMES = ['onboarding-packet.md'].join(' ')
+SOURCE_FILE_NAME = 'onboarding-packet.md'
 OUTPUT_FILE_PATH = File.join('.', OUTPUT_DIRECTORY_NAME, 'onboarding-packet.pdf')
 
-PDF_BUILDER = 'pandoc'
-PDF_BUILDER_FLAGS = [
+PANDOC_FLAGS = [
   '--latex-engine xelatex',
   '--template ./templates/pdf-template.tex',
   '--listings'
 ].join(' ')
 
+PANDOC = ['pandoc', PANDOC_FLAGS].join(' ')
+
 directory OUTPUT_DIRECTORY_NAME
 
 desc "Regenerate the PDF."
 task :regenerate => [:clean, OUTPUT_DIRECTORY_NAME] do
-  `#{PDF_BUILDER} #{PDF_BUILDER_FLAGS} #{SOURCE_FILE_NAMES} -o #{OUTPUT_FILE_PATH}`
+  `#{PANDOC} #{SOURCE_FILE_NAME} -o #{OUTPUT_FILE_PATH}`
 end
 
 desc "Remove the generated PDF"
