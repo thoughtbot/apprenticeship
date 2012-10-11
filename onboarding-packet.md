@@ -284,8 +284,8 @@ also expect to submit a portfolio of work and do some in-person coding/design.
 
 Every company will expect you to share some code samples as part of their
 application process. These take a long time to develop so consider building
-these up over the course of your apprenticship. Your [Breakable
-Toy](http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html) is an
+these up over the course of your apprenticship. Your Breakable Toy
+(http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html) is an
 excellent showcase for your talent.
 
 
@@ -324,7 +324,7 @@ Some questions to expect during a developer interview:
 * What causes brittle tests?
 * What is a stub/mock/fake? When would you use each one?
 
-[Here is our internal list of interview questions](https://thoughtbot.backpackit.com/pages/2883297-technical-interviews).
+Our internal list of interview questions is here: https://thoughtbot.backpackit.com/pages/2883297-technical-interviews
 
 ### How to Reach Out to Companies
 
