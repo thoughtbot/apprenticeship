@@ -56,13 +56,21 @@ should take advantage of these.
 
 Use the coupon code APPRENTICE2012 to get anything on Learn for free.
 
+### Training @ Bocoup
 We also have a partnership with Bocoup, where you can take any of their
-workshops (http://training.bocoup.com) for free as well.
+workshops (http://training.bocoup.com) for free as well. They offer
+training in Open Web technologies like HTML5 and JavaScript.
 
+To take a Bocoup course, email Jory (training@bocoup.com). Let her know
+which course you are interested in and that you are a thoughtbot apprentice.
+
+If there are other apprentices interested, it would be best to coordinate with
+them first and just send one email.
+
+## Friday Dev Discussions
 We have Friday meetings at 3(ish)PM where designers/developers (in separate
 meetings) get together to improve their skills. It is impossible to
 overemphasize how much learning we want you to do.
-
 
 # Getting the Most Out of apprentice.io
 
