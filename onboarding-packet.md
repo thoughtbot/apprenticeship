@@ -67,11 +67,6 @@ which course you are interested in and that you are a thoughtbot apprentice.
 If there are other apprentices interested, it would be best to coordinate with
 them first and just send one email.
 
-## Friday Dev Discussions
-We have Friday meetings at 3(ish)PM where designers/developers (in separate
-meetings) get together to improve their skills. It is impossible to
-overemphasize how much learning we want you to do.
-
 # Getting the Most Out of apprentice.io
 
 ## Expectations
@@ -144,7 +139,7 @@ http://j.mp/LP72NP is pretty dumb but got 18 comments.
 We also have a semi-secret blog of Campfire quotes at
 http://tinyrobots.thoughtbot.com.
 
-## 37Signals Suite (Basecamp/Backpack/Campfire)
+## 37signals Suite (Basecamp/Backpack/Campfire)
 
 37signals runs a suite of applications that we use. You should have received a
 37Signals invitation in your apprentice.io email. Ensure that you have access
@@ -265,8 +260,7 @@ place to learn something, as well as to practice your public speaking by
 submitting a talk. Speaking at boston.rb is great practice since it's a
 smallish, friendly audience, and it gives your resume a nice bump.
 
-
-# Get a Job
+# Get a Job (your third month)
 
 One of our goals is to help you land a developer/designer job at the end of
 your apprenticeship.
