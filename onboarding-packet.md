@@ -23,7 +23,7 @@ new mentor each month.
 This person is your guide for the month.
 
 ## How am I doing?
-You should meet with your mentor once a week on Friday to talk through your
+You will meet with your mentor once a week on Friday to talk through your
 progress.
 
 We encourage you to create a backpack page where you list your goals for the
@@ -66,8 +66,8 @@ We also have a partnership with Bocoup, where you can take any of their
 workshops (http://training.bocoup.com) for free as well. They offer
 training in Open Web technologies like HTML5 and JavaScript.
 
-To take a Bocoup course, email Jory (training@bocoup.com). Let her know
-which course you are interested in and that you are a thoughtbot apprentice.
+Backpack has information on how to sign up for these courses for free. Search
+"Bocoup training" or just go to https://thoughtbot.backpackit.com/pages/2895588-bocoup-training.
 
 If there are other apprentices interested, it would be best to coordinate with
 them first and just send one email.
@@ -80,7 +80,7 @@ will get out of it.
 
 There is some structure to guide you through the program and also people
 available to help you along the way, but the engine of this experience is your
-effort.
+effort. Learning should take up some of your evening/weekend time.
 
 You should expect this to be a mentally intense period of your life where you
 are learning a great deal. Hard work pays off.
@@ -88,8 +88,25 @@ are learning a great deal. Hard work pays off.
 ## Your trail map
 On your first day, fork the Trail Map (https://github.com/thoughtbot/trail-map)
 and edit it with your mentor to find trails that match your goals. It can be any
-of trails, but stick with them and track your progress. Also, submitting pull
-requests back to the main repo will strengthen the trail map for everyone.
+of the trails, but stick with them and track your progress. Also, submitting
+pull requests back to the main repo will strengthen the trail map for everyone.
+
+## Breakable Toy
+
+A Breakable Toy (http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html)
+is a side Rails project you are excited/passionate about.
+
+This project should be an anchor to your learning, allowing you to raise new
+questions and a place to apply new skills/techniques. To get the most out of it,
+you should put the code in Github and give your mentors and apprentice cohort
+access to the project. You should also deploy it to Heroku.
+
+There is no expectation for other apprentices to contribute to your project, but
+everyone should have access and input is welcome.
+
+A team that has a designer apprentice and a developer apprentice has worked very
+well for both designer and developer in the past.  Don't be afraid to ask if
+someone wants to work with you!
 
 ## Feedback
 
@@ -97,13 +114,11 @@ It's not easy, but you should get comfortable asking for and receiving feedback.
 People are nice and none of it is personal. It's a great way to develop
 professionally.
 
-
 # Tools and Weapons
 
 ## Laptop setup
 Your mentor will help you get your laptop set up. We recommend the laptop script
 available at https://github.com/thoughtbot/laptop.
-
 
 ## Logins
 We use many different websites at thoughtbot, and everyone should have
@@ -141,7 +156,7 @@ you're *sure* everyone else knows, is worthy of a blog post. Often our most
 popular blog posts are the ones that we thought were the silliest. For example,
 http://j.mp/LP72NP is pretty dumb but got 18 comments.
 
-We also have a semi-secret blog of Campfire quotes at
+We also have a semi-secret blog of funny Campfire quotes at
 http://tinyrobots.thoughtbot.com.
 
 ## 37signals Suite (Basecamp/Backpack/Campfire)
@@ -156,8 +171,8 @@ to the following:
 
 If any of those sites give you an error, talk to your mentor.
 Once you have access to Backpack, check out this onboarding page:
-https://thoughtbot.backpackit.com/pages/2661936-employee-onboarding. There's
-probably overlap, and we'd love feedback!
+https://thoughtbot.backpackit.com/pages/2661936-employee-onboarding. Some
+things, like BambooHR and health care, don't apply to you.
 
 ## Trajectory
 
@@ -181,6 +196,8 @@ Campfire has rooms with a specific purpose:
   whenever you are working.
 * Code: discuss your code. When asking a question, pasting your code is
   encouraged.
+* apprentice.io: discuss apprentice-specific topics and talk to other mentors
+  and apprentices.
 * Design: discuss design topics or cool design that you've encountered.
 * Watercooler (a/k/a WC): this is where we  post animated GIFs and lolcats. Don't
   post lolcats in other rooms. Sometimes you'll be told "WC!" - that means you
@@ -188,8 +205,8 @@ Campfire has rooms with a specific purpose:
 * Most of the other rooms are specific to projects and are named after the
   project.
 
-Designers and developers should check out the Code and Design rooms - everyone's
-welcome in every room.
+Both designers and developers should check out both the Code and Design rooms -
+everyone's welcome in every room.
 
 ### Basecamp
 
@@ -292,13 +309,12 @@ also expect to submit a portfolio of work and do some in-person coding/design.
 Every company will expect you to share some code samples as part of their
 application process. These take a long time to develop so consider building
 these up over the course of your apprenticship. Your Breakable Toy
-(http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html) is an
-excellent showcase for your talent.
-
+(see above) is an excellent showcase for your talent.
 
 Guidelines for developers:
 * Code samples should be *entirely* your own work
-* Some good ideas are at [RubyQuiz](http://www.rubyquiz.com). This goes without saying, but don't use the published answers (or look at them).
+* Some good ideas are at RubyQuiz: http://www.rubyquiz.com. This goes without
+  saying, but don't use the published answers (or look at them).
 * Smaller is easier to digest
 * Pay extra attention to getting formatting right
 * Make sure you've got tests for everything
@@ -314,14 +330,29 @@ Questions You Will Get on Your Ruby Code Sample:
 
 Technical interviews will run the gamut from very esoteric to very specific. You should be prepared for all of it.
 
+Thoughtbot developers are available to do mock technical interviews with you.
+Ask your mentor to set this up.
+
 Some general guidelines:
-* Show up 15 minutes early for the interview. If you show up late without an extraordinary reason, you are wasting their time and should expect to get sent home.
-* Clean it up. The classic image of the developer has them wearing T-shirts and jeans on a scooter, but if you put on a shirt and maybe a jacket, it shows you care what the interviewee thinks of you.
-* You should care about specific choices and demonstrate reasoning to support them
-* Conversely, you should also be flexible and open minded when considering other's opinions, not combatative or dogmatic.
-* Say so if you don't know the answer, but then try to reason through an answer *out loud* or discuss where you would find an answer.
-* You should research the company and your interviewer deeply. Know their online presence, read through their public code, and read up on their tweets. Bring any of this up in conversation casually wherever appropriate. Don't force it and be a weirdo.
-* Prepare some good questions for when they ask you for them. Good questions are not generic or open-ended, demonstrate critical thinking about something they do, understanding of their product/competitors, or are otherwise thoughtful.
+* Show up 15 minutes early for the interview. If you show up late without an
+  extraordinary reason, you are wasting their time and should expect to get sent
+  home.
+* Clean it up. The classic image of the developer has them wearing T-shirts and
+  jeans on a scooter, but if you put on a shirt and maybe a jacket, it shows you
+  care what the interviewee thinks of you.
+* You should care about specific choices and demonstrate reasoning to support
+  them
+* Conversely, you should also be flexible and open minded when considering
+  other's opinions, not combatative or dogmatic.
+* Say so if you don't know the answer, but then try to reason through an answer
+  *out loud* or discuss where you would find an answer.
+* You should research the company and your interviewer deeply. Know their online
+  presence, read through their public code, and read up on their tweets. Bring
+  any of this up in conversation casually wherever appropriate. Don't force it
+  and be a weirdo.
+* Prepare some good questions for when they ask you for them. Good questions are
+  not generic or open-ended, demonstrate critical thinking about something they
+  do, understanding of their product/competitors, or are otherwise thoughtful.
 
 Some questions to expect during a developer interview:
 * What's your favorite gem?
@@ -355,16 +386,23 @@ If you network consistently and present yourself as a helpful, honest person,
 jobs and opportunities will come flowing to you.
 
 Basics of Networking:
-* Do it purposelessly - get to know people when you don't need anything from them, then get in touch with them when you do.
-* Do it frequently - try to get out and do one thing per week where you meet random people.
-* Get comfortable telling your story. "So what do you do?" is the #1 question. Respond in a positive, short way.
-* If you don't have anything to talk about with someone, keep asking the other person questions.
-* Use "Well I'm going to go get a drink" whenever you don't feel like talking anymore to someone.
+* Do it purposelessly - get to know people when you don't need anything from
+  them, then get in touch with them when you do.
+* Do it frequently - try to get out and do one thing per week where you meet
+  random people.
+* Get comfortable telling your story. "So what do you do?" is the #1 question.
+  Respond in a positive, short way.
+* If you don't have anything to talk about with someone, keep asking the other
+  person questions.
+* Use "Well I'm going to go get a drink" whenever you don't feel like talking
+  anymore to someone.
 * Email *everyone* you get a card from to say "Hey" and you're glad you met.
 * Give your card out liberally. If you don't have one, get some made.
 * Networking is also about helping people. If you know two people who should meet, introduce them.
 * Stay in touch. If an article reminds you of someone or you think they would find it interesting, send it to them.
-* Set up periodic reminders to prompt you to get in touch with people you like and who can be helpful to you. Every 2-3 months is appropriate. Try [followup.cc](http://followup.cc)
+* Set up periodic reminders to prompt you to get in touch with people you like
+  and who can be helpful to you. Every 2-3 months is appropriate. Try
+  http://followup.cc .
 * Everyone will take a coffee meeting with you. Ask them.
 
 If you don't know anyone at a company of interest, you should get to know them
