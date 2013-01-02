@@ -312,6 +312,7 @@ these up over the course of your apprenticship. Your Breakable Toy
 (see above) is an excellent showcase for your talent.
 
 Guidelines for developers:
+
 * Code samples should be *entirely* your own work
 * Some good ideas are at RubyQuiz: http://www.rubyquiz.com. This goes without
   saying, but don't use the published answers (or look at them).
@@ -334,6 +335,7 @@ Thoughtbot developers are available to do mock technical interviews with you.
 Ask your mentor to set this up.
 
 Some general guidelines:
+
 * Show up 15 minutes early for the interview. If you show up late without an
   extraordinary reason, you are wasting their time and should expect to get sent
   home.
@@ -355,6 +357,7 @@ Some general guidelines:
   do, understanding of their product/competitors, or are otherwise thoughtful.
 
 Some questions to expect during a developer interview:
+
 * What's your favorite gem?
 * If you could remove one feature from Ruby, what would it be?
 * Sample SQL questions like "Given Tables XYZ, how would you select A's but not B's?"
@@ -386,6 +389,7 @@ If you network consistently and present yourself as a helpful, honest person,
 jobs and opportunities will come flowing to you.
 
 Basics of Networking:
+
 * Do it purposelessly - get to know people when you don't need anything from
   them, then get in touch with them when you do.
 * Do it frequently - try to get out and do one thing per week where you meet
@@ -415,6 +419,7 @@ company you're looking at.
 ### Evaluating Potential Employers
 
 Some things to think about:
+
 * Product shop vs. Development Consultants - very different jobs.
 * Recent turnover
 * Good feeling and positive attitude from interviewers
