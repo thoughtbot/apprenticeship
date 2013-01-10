@@ -1,6 +1,7 @@
+INPUT_DIRECTORY_NAME = 'markdown'
+INPUT_FILE_EXTENSION = 'md'
 OUTPUT_DIRECTORY_NAME = 'pdf'
-SOURCE_FILE_NAME = 'onboarding-packet.md'
-OUTPUT_FILE_PATH = File.join('.', OUTPUT_DIRECTORY_NAME, 'onboarding-packet.pdf')
+OUTPUT_FILE_EXTENSION = 'pdf'
 
 PANDOC_FLAGS = [
   '--latex-engine xelatex',
@@ -14,12 +15,22 @@ directory OUTPUT_DIRECTORY_NAME
 
 desc "Regenerate the PDF."
 task :regenerate => [:clean, OUTPUT_DIRECTORY_NAME] do
-  `#{PANDOC} #{SOURCE_FILE_NAME} -o #{OUTPUT_FILE_PATH}`
+  Dir.glob("#{INPUT_DIRECTORY_NAME}/*.#{INPUT_FILE_EXTENSION}") do |input_file_name|
+    output_file_name = input_file_name.sub(
+      INPUT_DIRECTORY_NAME,
+      OUTPUT_DIRECTORY_NAME
+    ).sub(
+      INPUT_FILE_EXTENSION,
+      OUTPUT_FILE_EXTENSION
+    )
+    `#{PANDOC} #{input_file_name} -o #{output_file_name}`
+  end
 end
 
 desc "Remove the generated PDF"
 task :clean do
-  `rm -f #{OUTPUT_FILE_PATH}`
+  `rm -rf #{OUTPUT_DIRECTORY_NAME}`
+  `mkdir #{OUTPUT_DIRECTORY_NAME}`
 end
 
 desc "Regenerate the PDF and push it to GitHub."
