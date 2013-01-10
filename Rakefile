@@ -15,7 +15,9 @@ directory OUTPUT_DIRECTORY_NAME
 
 desc "Regenerate the PDF."
 task :regenerate => [:clean, OUTPUT_DIRECTORY_NAME] do
-  Dir.glob("#{INPUT_DIRECTORY_NAME}/*.#{INPUT_FILE_EXTENSION}") do |input_file_name|
+  input_files = Dir.glob("#{INPUT_DIRECTORY_NAME}/*.#{INPUT_FILE_EXTENSION}")
+
+  input_files.each do |input_file_name|
     output_file_name = input_file_name.sub(
       INPUT_DIRECTORY_NAME,
       OUTPUT_DIRECTORY_NAME
