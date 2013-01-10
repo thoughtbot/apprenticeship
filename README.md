@@ -21,6 +21,7 @@ Good:
 ## Building
 
 Requirements:
+
 * [Pandoc](http://johnmacfarlane.net/pandoc/installing.html)
 * LaTeX
   - Use [BasicTeX](http://www.tug.org/mactex/morepackages.html), which is a much
@@ -28,7 +29,7 @@ Requirements:
 
 Then:
 
-    rake && open book/*.pdf
+    rake && open pdf/onboarding-packet.pdf
 
 ## Releasing
 
