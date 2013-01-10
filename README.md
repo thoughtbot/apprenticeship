@@ -29,7 +29,12 @@ Requirements:
 
 Then:
 
-    rake && open pdf/onboarding-packet.pdf
+    rake
+
+View output:
+
+    open pdf/onboarding-packet.pdf
+    open pdf/get-a-job.pdf
 
 ## Releasing
 
