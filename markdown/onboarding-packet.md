@@ -44,6 +44,7 @@ When you switch mentors, you will have a Mentor Hand-off. This is a meeting with
 both mentors to talk through the previous month and the plan for the next month.
 
 ## Pairing during the week
+
 You will work with them on client projects Monday-Thursday, traveling with them
 to the client site if necessary/appropriate. Your mentor will pair with you
 during the week as you work on user stories.
@@ -54,6 +55,14 @@ time.  One particularly effective method of pairing is Ping-Ponging. The idea is
 for Person 1 to write a test, Person 2 writes the code to make the test pass.
 Then Person 2 writes the next test and Person 1 writes the code to make the test
 pass. Rinse, repeat.
+
+We also encourage you to pair with other apprentices (designer/developer teams
+work great) as well as with thoughtbot employees who are not your mentor.
+Everyone on the team loves teaching and learning, and they'd love to teach and
+learn from you. A good way to do it is to announce during standup that you're
+looking for someone to pair with, and if people have free time (usually only
+Fridays, since that's when everyone gets a break from client work), they'll tell
+you.
 
 ## Self-guided learning
 Whenever appropriate or applicable to whatever you are working on, you should
@@ -118,9 +127,11 @@ well for both designer and developer in the past.  Don't be afraid to ask if
 someone wants to work with you!
 
 ## Investment Days
+
 You should use investment days to work on open-source projects, or internal thoughtbot projects.
 For a list of ideas, you should look at the **Apprentice.io Projects** Trello board, which is 
-available at: https://trello.com/board/apprentice-io-projects/515f059d7a2da6a92a00a126
+available in the list of boards at: https://trello.com . As always, if you don't
+see it there, ask your mentor for help.
 
 ## Feedback
 
