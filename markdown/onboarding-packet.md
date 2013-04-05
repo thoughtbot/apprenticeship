@@ -117,6 +117,11 @@ A team that has a designer apprentice and a developer apprentice has worked very
 well for both designer and developer in the past.  Don't be afraid to ask if
 someone wants to work with you!
 
+## Investment Days
+You should use investment days to work on open-source projects, or internal thoughtbot projects.
+For a list of ideas, you should look at the **Apprentice.io Projects** Trello board, which is 
+available at: https://trello.com/board/apprentice-io-projects/515f059d7a2da6a92a00a126
+
 ## Feedback
 
 It's not easy, but you should get comfortable asking for and receiving feedback.
