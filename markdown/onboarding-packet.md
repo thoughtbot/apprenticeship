@@ -109,6 +109,12 @@ and edit it with your mentor to find trails that match your goals. It can be any
 of the trails, but stick with them and track your progress. Also, submitting
 pull requests back to the main repo will strengthen the trail map for everyone.
 
+## Weekly Apprentice Retrospective
+
+Every Friday you'll meet with the other apprentices and Gabe via Google Hangout.
+We discuss how it's going and you get to meet and talk to other apprentices.
+It's a low-pressure way to check in each week.
+
 ## Breakable Toy
 
 A Breakable Toy (http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html)
@@ -275,9 +281,10 @@ things you should try:
 
 ### Friday Lunches
 
-We order lunch for the whole office each Friday! Please let our office manager
-Seana (seana@thoughtbot.com) know if you have any allergies or dietary
-restrictions we should be aware of.
+We order lunch for the whole office each Friday! Please let our Boston office
+manager (Anna (anna@thoughtbot.com) if in Boston, Carlo (carlo@thoughtbot.com)
+in SF) know if you have any allergies or dietary restrictions we should be aware
+of.
 
 ## Who?
 
