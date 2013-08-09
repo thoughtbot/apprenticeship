@@ -5,7 +5,7 @@ their first day.
 
 ## Editing
 
-You should edit `onboarding-packet.md`, which is built into a lovely PDF in the `pdf/` directory.
+You should edit `markdown/onboarding-packet.md`, which is built into a lovely PDF in the `pdf/` directory.
 
 Don't put links in `onboarding-packet.md`, put bare URLs instead so that they
 show up when printed:
