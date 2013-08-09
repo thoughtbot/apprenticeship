@@ -46,7 +46,9 @@ During the one on one:
 
 ## When your Apprentice is Rotating to a new Mentor
 
-The new Mentor should join the one on one during the apprentice retrospective, if possible. If not possible (most likely because they have an apprentice themselves) then meet separately with the new mentor and your apprentice to:
+The new Mentor should join the one on one during the apprentice retrospective,
+if possible. If not possible (most likely because they have an apprentice
+themselves) then meet separately with the new mentor and your apprentice to:
 
 * Review what has been achieved
 * Share your assessment of the apprentice with the new mentor and provide
@@ -60,7 +62,46 @@ then you likely have failed as a mentor.
 
 ## Tips on being an effective mentor based on experience and study
 
-From Techstars' Mentor Manifesto and other sources.
+### Structural things you can do to be an effective Mentor
+
+* **Hold yourself accountable for the weekly Friday meetings**. This is a 
+  critical opportunity for Apprentices to receive feedback and make each week
+  better than the last.
+* **Pair as much as possible.** Put it on your calendar. Aim to pair 50% of the
+  time (or more). Even if you feel like you are working on something new, it is
+  an invaluable lesson for an Apprentice to see how you approach new problems.
+* **Client work or breakable toy?** Breakable toys provide a good sandbox for
+  Apprentices to play around, but client work teaches important lessons about
+  project flow, git, and working on a team. It also provides more opportunities
+  for pairing with you. What Apprentices work on is ultimately up to them, but
+  encourage a mixture of client work and breakable toy time.
+* **Include Apprentices in all aspects of consulting.** Invite them to client
+  meetings and sales meetings. These interactions are an important part of what
+  we do.
+
+### Soft skills to remember as a Mentor
+
+* **Understand the Apprentice's situation.** Being the most junior person in the
+  room is never easy. And, in many ways, being an Apprentice is like conducting
+  a 3-month long interview. Simply being aware of these facts will help you
+  develop empathy for the Apprentice.
+* **Assume that nothing is 'obvious' or 'easy.'** When you've been doing this
+  whole 'development' thing for a while, certain concepts are taken for granted.
+  Apprentices enter the program at all different levels. Teaching the basics is
+  a great opportunity to brush up on them yourself!
+* **Exposing vulnerability is powerful.** Apprentices run into something new
+  every five minutes. The wonderful thing about being an Apprentice is that you
+  can ask your mentor questions. But asking questions can be scary. If you, as a
+  mentor, are open about things that you don't know, Apprentices will feel more
+  comfortable asking 'dumb' questions.
+* **Give regular feedback, both positive and negative.** The weekly
+  Mentor-Apprentice meeting is important for giving high level feedback, but
+  don't forget to give Apprentices regular feedback on the awesome and less
+  awesome things that they do throughout the day. Three months is a short amount
+  of time, but small feedback loops help Apprentices level up as quickly as
+  possible.
+
+### From Techstars' Mentor Manifesto and other sources
 
 * Be authentic. Mentoring is a human interaction.
 * Be challenging but never destructive.
