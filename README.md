@@ -3,6 +3,14 @@
 This is the onboarding packet for new apprentices. It should be given to them on
 their first day.
 
+## So You Just Started Mentoring a New Apprentice
+
+Great! Here's how you use this:
+
+* Print out `pdf/onboarding-packet.pdf` and fill in your name, then give it to your apprentice
+* Make sure they know that we'd love feedback on this packet
+* Encourage your apprentice to flip through the packet, but it's a reference, not a novel. Think of how you'd read a dictionary.
+
 ## Editing
 
 You should edit `markdown/onboarding-packet.md`, which is built into a lovely PDF in the `pdf/` directory.
