@@ -1,4 +1,4 @@
-At the end of your time with your apprentice, please anwer the following questions, and email them to Chad Pytel.
+At the end of your time with your apprentice, please answer the following questions, and email them to Chad Pytel.
 
 * What is your general assessment of your apprentice at this point?
 * What are his or her greatest strengths?
