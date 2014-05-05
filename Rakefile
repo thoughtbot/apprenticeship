@@ -38,7 +38,7 @@ end
 desc "Regenerate the PDF and push it to GitHub."
 task :release => :regenerate do
   puts "Releasing new version to GitHub"
-  `git commit -am 'New version of PDF'`
+  `git commit -am 'New version of PDFs'`
   `git push origin master`
 end
 
