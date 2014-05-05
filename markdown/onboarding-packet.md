@@ -27,7 +27,7 @@ as we can and prepare you for your step after the apprenticeship.
 
 ## Your mentor
 
-Your first mentor's name is:                      . You'll get a
+Your first mentor's name is: \__________________________\_. You'll get a
 new mentor each month.
 
 This person is your guide for the month.
