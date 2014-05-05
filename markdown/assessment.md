@@ -1,9 +1,9 @@
 At the end of your time with your apprentice, please answer the following questions, and email them to Chad Pytel.
 
 * What is your general assessment of your apprentice at this point?
-* What are his or her greatest strengths?
-* What are his or her greatest weaknesses?
-* In terms of skill and ability, where do you think your apprentice will be at the end of his or her apprenticeship?
+* What are their greatest strengths?
+* What are their greatest weaknesses?
+* In terms of skill and ability, where do you think your apprentice will be at the end of their apprenticeship?
 * Given what you know now, and the apprentice's current and expected ability level at the conclusion of their apprenticeship, should thoughtbot consider hiring this apprentice?
 
 This assessment will be used to make the decision about whether the apprentice shall join thoughtbot at the end of

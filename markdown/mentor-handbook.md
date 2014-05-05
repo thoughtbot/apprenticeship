@@ -62,7 +62,7 @@ then you likely have failed as a mentor.
 
 ### Structural things you can do to be an effective Mentor
 
-* **Hold yourself accountable for the weekly Friday meetings**. This is a 
+* **Hold yourself accountable for the weekly Friday meetings**. This is a
   critical opportunity for Apprentices to receive feedback and make each week
   better than the last.
 * **Pair as much as possible.** Put it on your calendar. Aim to pair 50% of the
@@ -125,7 +125,7 @@ then you likely have failed as a mentor.
 * Read the Dreyfus model of skill acquisition. Agree with your apprentice what
   stage they’re in for each skill they’re trying to acquire (Ruby, Javascript,
   SQL, interaction design, etc.). Help them move to the next stage.
-* Reflect on the quality of the apprentice’s work in his or her presence.
+* Reflect on the quality of the apprentice’s work in their presence.
 * Reflect on the quality of your work in your apprentice’s presence.
 * Reframe if your experience tells you it will help the apprentice.
 * Treat every situation as new. Consider the current context.
