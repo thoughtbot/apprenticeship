@@ -5,9 +5,11 @@ as a mentor, and includes some helpful tips.
 
 ## The first day with your new Apprentice
 
-On your first day with your new apprentice you should sit down with the apprentice and review:
+On your first day with your new apprentice you should sit down with the
+apprentice and review:
 
 ### Overall goals for the apprenticeship
+
 * Where they see themselves currently in terms of strengths and weaknesses
 * What they hope to accomplish during the month with you
 * You should then devise and make sure they understand the rough plan for the
@@ -22,12 +24,8 @@ If you are the first mentor for a new apprentice, spend some time, but not too
 much, envisioning what the rough outline for their entire apprenticeship might
 be like
 
-This meeting is also a good opportunity to tell them about the client project you’ll be working on together.
-
-## Weekly Apprentice Retrospective
-
-Every Friday the apprentices and Gabe meet via Google Hangout. We discuss how
-it's going and the apprentices get to meet and talk to each other.
+This meeting is also a good opportunity to tell them about the client project
+you’ll be working on together.
 
 ## One-on-one Retrospective
 
