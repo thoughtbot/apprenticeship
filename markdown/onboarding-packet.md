@@ -10,27 +10,30 @@ This packet is available at https://github.com/thoughtbot/apprentice-onboarding.
 Feel free to file a pull request to improve any aspect of it, no matter how tiny.
 
 # The Plan
+
 Your first two months are spent learning. At the end of your second month,
-you'll meet with Chad Pytel or Dan Croak to discuss your next step. During that
-meeting, you'll be asked "What do you want to do after your apprenticeship?"
+you'll meet with your office's Managing Director to discuss your next steps.
+During that meeting, you'll be asked "What do you want to do after your
+apprenticeship?"
 
 If you have decided at that point that thoughtbot is not for you, no worries.
 We can work with you over the next month to help find job prospects.
 
-If you want to work at thoughtbot, tell Chad or Dan. They will be prepared to
-either make you an offer or tell you there isn't an available spot for you at
-thoughtbot.
+If you want to work at thoughtbot, we will be prepared to either make you an
+offer or tell you there isn't a good spot for you at thoughtbot.
 
 Don't worry! We will do everything we can to make your three months as amazing
 as we can and prepare you for your step after the apprenticeship.
 
 ## Your mentor
+
 Your first mentor's name is:                      . You'll get a
 new mentor each month.
 
 This person is your guide for the month.
 
 ## How am I doing?
+
 You will meet with your mentor once a week on Friday to talk through your
 progress.
 
@@ -48,6 +51,7 @@ When you switch mentors, you will have a Mentor Hand-off. This is a meeting with
 both mentors to talk through the previous month and the plan for the next month.
 
 ## Pairing during the week
+
 You will work with your mentor on client projects Monday-Thursday,
 traveling with them to the client site if appropriate. Your mentor will pair
 with you during the week as you work on user stories.
@@ -68,6 +72,7 @@ Fridays, since that's when everyone gets a break from client work), they'll tell
 you.
 
 ## Self-guided learning
+
 Whenever appropriate or applicable to your work, you should take time away from
 client work to do some self-guided learning. This can include reading material
 from books, attending workshops, or learning about and trying out a technique
@@ -77,15 +82,17 @@ For reading material, we recommend starting with Apprenticeship Patterns, which
 is available in the thoughtbot Dropbox library.
 
 ## Workshops
-We encourage learning. We run workshops and sell webcasts (both on
+
+We encourage learning. We sell workshops and webcasts (both on
 http://learn.thoughtbot.com), which are free for you. You can and should take
 advantage of these.
 
-Use the coupon code APPRENTICE2012 to get anything on Learn for free.
+As your mentor to add you to the thoughtbot team in Learn.
 
 # Getting the Most Out of apprentice.io
 
 ## Expectations
+
 Your apprenticeship is an opportunity. The more you put into it, the more you
 will get out of it.
 
@@ -97,11 +104,13 @@ You should expect this to be a mentally intense period of your life where you
 are learning a great deal. Hard work pays off.
 
 ## Weekly Apprentice Retrospective
+
 Every Friday you'll meet with the other apprentices and Gabe via Google Hangout.
 We discuss how it's going and you get to meet and talk to other apprentices.
 It's a low-pressure way to check in each week.
 
 ## Breakable Toy
+
 A Breakable Toy (http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html)
 is a side Rails project you are excited/passionate about.
 
@@ -118,12 +127,14 @@ well for both designer and developer in the past.  Don't be afraid to ask if
 someone wants to work with you!
 
 ## Investment Days
+
 You should use investment days to work on open-source projects, or internal
 thoughtbot projects. For a list of ideas, you should look at the **Apprentice.io
 Projects** Trello board (https://trello.com). As always, if you don't
 see it there, ask your mentor for help.
 
 ## Feedback
+
 It's not easy, but you should get comfortable asking for and receiving feedback.
 People are nice and none of it is personal. It's a great way to develop
 professionally.
@@ -131,10 +142,12 @@ professionally.
 # Tools and Weapons
 
 ## Laptop setup
+
 Your mentor will help you get your laptop set up. We recommend the laptop script
 available at https://github.com/thoughtbot/laptop.
 
 ### Dotfiles
+
 Dotfiles are the files in your home directory (referred to as "~") that start
 with a dot, like "~/.bashrc". They are used to configure various programs, e.g.
 "~/.vimrc" sets some global options for Vim. Take a look at thoughtbot's
@@ -144,6 +157,7 @@ example, Josh Clayton has an extensive configuration for tmux in his dotfiles:
 https://github.com/joshuaclayton/dotfiles/blob/master/tmux.conf.
 
 ## Logins
+
 We use many different websites at thoughtbot, and everyone should have
 accounts for them. Having access will make it much easier for you to participate
 in thoughtbot's internal conversations.
@@ -152,6 +166,7 @@ The list of services is below. By the end of your first week, you should have
 access to all of them.
 
 ### Google apps
+
 URL: http://google.com/a/apprentice.io
 
 You should have received an email with your email (NAME@apprentice.io) and email
@@ -161,16 +176,19 @@ We use the calendar extensively - add someone else's calendar to keep
 track of what other people are doing.
 
 ### Dropbox (http://dropbox.com)
+
 You have access to the "Library" Dropbox folder. This folder contains workshops,
 books, papers, and other resources that we've purchased in the past and now
 share with everyone at thoughtbot. It's an easy way to learn something for free.
 
 ### GitHub
+
 Your GitHub account should have access to private thoughtbot repositories such
 as our blog (robots.thoughtbot.com). You should also have access to your client
 project. Work with your mentor if you do not have access.
 
 ### 37signals Suite (Basecamp/Campfire)
+
 37signals runs a suite of applications that we use. You should have received a
 37Signals invitation in your apprentice.io email. Ensure that you have access
 to the following:
@@ -181,6 +199,7 @@ to the following:
 If any of those sites give you an error, talk to your mentor.
 
 ### Campfire
+
 We use Campfire *constantly*. Use a desktop Campfire client like Propane
 (http://propaneapp.com/) or Flint (http://giantcomet.com/flint/mac/); They are
 much better than the web interface.
@@ -201,6 +220,7 @@ Both designers and developers should check out both the Code and Design rooms -
 everyone's welcome in every room.
 
 ### Basecamp
+
 Basecamp is where we put ideas that we want to discuss, like product ideas or a
 new Git workflow. It's also the home for our general company policies,
 non-technical discussion and company announcements.
@@ -210,6 +230,7 @@ company-wide, and a project for your specific office. You may also have a
 Basecamp project for your client work, depending on the client.
 
 ### Trello
+
 Most of our client and internal projects use Trello boards for project
 management. If you don't already have a Trello account, you can log in using
 your apprentice.io email. Your mentor should help you get access to the boards
@@ -224,6 +245,7 @@ Part of your apprenticeship is learning to be part of a development community.
 This could be a Ruby Meetup Group, company, or project team.
 
 ## Meeting people is easy
+
 We are a friendly bunch and we'd like to get to know you better! That being
 said, it's easy to feel intimidated or uncomfortable in a new environment. Some
 things you should try:
@@ -236,18 +258,19 @@ things you should try:
 * Suggest a social event for your project team.
 
 ### Friday Lunches
-We order lunch for the whole office each Friday! Please let our Boston office
-manager (Anna (anna@thoughtbot.com) if in Boston, Carlo (carlo@thoughtbot.com)
-in SF) know if you have any allergies or dietary restrictions we should be aware
-of.
+
+We order lunch for the whole office each Friday! Please let our office manager
+know if you have any allergies or dietary restrictions.
 
 ## Who?
+
 If you're having trouble matching names to faces, check out
-http://thoughtbot.com/about, which has pictures and names of everyone at the
+http://thoughtbot.com, which has pictures and names of everyone at the
 company (except apprentices). Campfire avatars also tend to be handy in this
 regard.
 
 ## Development Discussions
+
 The Boston office holds weekly development discussions in the upstairs
 conference room from 1-2pm. Upcoming topics for discussion are listed in trello
 (https://trello.com/b/Ldgkk0rY/development-discussions) and past discussions
@@ -261,6 +284,7 @@ The San Francisco, Denver, and Stockholm offices have similar discussions. Check
 with your mentor for information.
 
 ## Boston.rb
+
 The Boston Ruby Group (bostonrb.org/calendar) meets every other Tuesday,
 alternating project nights (where people hack together) and presentations.
 It's a great place to learn something, as well as to practice your public
@@ -271,6 +295,7 @@ The Boston.rb project nights are hosted at the thoughtbot office, which makes
 them very easy to attend.
 
 # Improve apprentice.io
+
 We encourage you to propose changes to the apprentice process, including hiring,
 onboarding, and anything else that you think could be better. Everyone at
 thoughtbot is constantly trying to do a better job and we welcome feedback.

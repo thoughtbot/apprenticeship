@@ -1,15 +1,23 @@
 # Get a Job (your third month)
 
+Our goal is to get you to the point where you can join thoughtbot as a full
+developer or designer.
+
+At the end of your second month, you'll meet with your office's Managing
+Director to discuss your next steps.  During that meeting, you'll be asked "What
+do you want to do after your apprenticeship?"
+
 One of our goals is to help you land a developer/designer job at the end of
 your apprenticeship.
 
-Your entire third month is focused on finding a job. Chad Pytel will meet with
-you at the beginning of your third month to discuss your options and help you
-find employers. While you will still be learning, the emphasis is more on
-employment.
+If you have decided at that point that thoughtbot is not for you, no worries.
+We can work with you over the next month to help find job prospects.
 
-We prefer that the first two months, conversely, are focused on learning and
-not finding employment.
+If you want to work at thoughtbot, we will be prepared to either make you an
+offer or tell you there isn't a good spot for you at thoughtbot.
+
+If you will not be joining thoughtbot, we will do our best to prepare for and
+help you find a job after your apprenticeship is complete.
 
 ## Preparing for interviews
 
