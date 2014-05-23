@@ -144,9 +144,9 @@ available at https://github.com/thoughtbot/laptop.
 
 ### Dotfiles
 
-Dotfiles are the files in your home directory (referred to as '~') that start
-with a dot, like '~/.bashrc'. They are used to configure various programs, e.g.
-'~/.vimrc' sets some global options for Vim. Take a look at thoughtbot's
+Dotfiles are the files in your home directory (referred to as \"~\") that start
+with a dot, like \"~/.bashrc\". They are used to configure various programs, e.g.
+\"~/.vimrc\" sets some global options for Vim. Take a look at thoughtbot's
 dotfiles (https://github.com/thoughtbot/dotfiles), and feel free to fork them.
 We also encourage you to check out your coworkers' dotfiles for inspiration. For
 example, Josh Clayton has an extensive configuration for tmux in his dotfiles:
