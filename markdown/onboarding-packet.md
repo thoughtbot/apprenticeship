@@ -43,9 +43,11 @@ smaller, specific goals. You should work with your mentor to set these and track
 your progress against them.
 
 For an example of how previous apprentices have done this, see the
-apprentice-goals project on GitHub
-(https://github.com/thoughtbot/apprentice-goals). You should consider forking
-that repository to contribute your own goals.
+apprentice-goals project on GitHub:
+
+(https://github.com/thoughtbot/apprentice-goals)
+
+You should consider forking that repository to contribute your own goals.
 
 When you switch mentors, you will have a Mentor Hand-off. This is a meeting with
 both mentors to talk through the previous month and the plan for the next month.
@@ -142,12 +144,13 @@ available at https://github.com/thoughtbot/laptop.
 
 ### Dotfiles
 
-Dotfiles are the files in your home directory (referred to as "~") that start
-with a dot, like "~/.bashrc". They are used to configure various programs, e.g.
-"~/.vimrc" sets some global options for Vim. Take a look at thoughtbot's
+Dotfiles are the files in your home directory (referred to as "\~") that start
+with a dot, like "\~/.bashrc". They are used to configure various programs, e.g.
+"\~/.vimrc" sets some global options for Vim. Take a look at thoughtbot's
 dotfiles (https://github.com/thoughtbot/dotfiles), and feel free to fork them.
 We also encourage you to check out your coworkers' dotfiles for inspiration. For
 example, Josh Clayton has an extensive configuration for tmux in his dotfiles:
+
 https://github.com/joshuaclayton/dotfiles/blob/master/tmux.conf.
 
 ## Logins
@@ -194,9 +197,12 @@ If any of those sites give you an error, talk to your mentor.
 
 ### Campfire
 
-We use Campfire *constantly*. Use a desktop Campfire client like Propane
-(http://propaneapp.com/) or Flint (http://giantcomet.com/flint/mac/); They are
-much better than the web interface.
+We use Campfire *constantly*. Use a desktop Campfire client like:
+
+* Propane (http://propaneapp.com/)
+* Flint (http://giantcomet.com/flint/mac/)
+
+They are much better than the web interface.
 
 Campfire has many rooms, each with a specific purpose:
 
@@ -275,15 +281,15 @@ Apprentices across all locations can participate in the Learn forum or ask to be
 conferenced into the discussion if interested.
 
 The San Francisco, Denver, and Stockholm offices have similar discussions. Check
-with your mentor for information.
+with your mentor for more information.
 
 ## Boston.rb
 
-The Boston Ruby Group (bostonrb.org/calendar) meets every other Tuesday,
-alternating project nights (where people hack together) and presentations.
-It's a great place to learn something, as well as to practice your public
-speaking by submitting a talk. Speaking at Boston.rb is great practice since
-it's a smallish, friendly audience, and it gives your resume a nice bump.
+The Boston Ruby Group (bostonrb.org/calendar) meets the first two Tuesdays of
+every month, alternating project nights (where people hack together) and
+presentations. It's a great place to learn something, as well as to practice your
+public speaking by submitting a talk. Speaking at Boston.rb is great practice
+since it's a smallish, friendly audience, and it gives your resume a nice bump.
 
 The Boston.rb project nights are hosted at the thoughtbot office, which makes
 them very easy to attend.
@@ -295,7 +301,7 @@ onboarding, and anything else that you think could be better. Everyone at
 thoughtbot is constantly trying to do a better job and we welcome feedback.
 
 As an apprentice, you have much better insight into what could make the process
-better for you than does someone who's been working here for five years.
+better for you than someone who has been working here for five years.
 
 Feedback is always, always appreciated on everything at thoughtbot. If you have
 feedback on the overall apprentice program, please contact Gabe Berke-Williams,
