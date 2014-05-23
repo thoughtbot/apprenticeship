@@ -27,7 +27,7 @@ as we can and prepare you for your step after the apprenticeship.
 
 ## Your mentor
 
-Your first mentor's name is: \__________________________\_. You'll get a
+Your first mentor's name is: \_________________________\_. You'll get a
 new mentor each month.
 
 This person is your guide for the month.
@@ -58,7 +58,7 @@ with you during the week as you work on user stories.
 
 Pairing is the fastest and most effective way to learn, so it should be a
 priority for you and your mentor. However, do not expect to pair 100% of the
-time.  One particularly effective method of pairing is Ping-Ponging. The idea is
+time. One particularly effective method of pairing is Ping-Ponging. The idea is
 for Person 1 to write a test, Person 2 writes the code to make the test pass.
 Then Person 2 writes the next test and Person 1 writes the code to make the test
 pass. Rinse, repeat.
@@ -79,7 +79,7 @@ from books, attending workshops, or learning about and trying out a technique
 or library.
 
 For reading material, we recommend starting with Apprenticeship Patterns, which
-is available in the thoughtbot Dropbox library.
+is available in the Library folder in the thoughtbot Dropbox.
 
 ## Workshops
 
@@ -87,7 +87,7 @@ We encourage learning. We sell workshops and webcasts (both on
 http://learn.thoughtbot.com), which are free for you. You can and should take
 advantage of these.
 
-As your mentor to add you to the thoughtbot team in Learn.
+Ask your mentor to add you to the thoughtbot team in Learn.
 
 # Getting the Most Out of apprentice.io
 
@@ -102,12 +102,6 @@ effort. Learning should take up some of your evening/weekend time.
 
 You should expect this to be a mentally intense period of your life where you
 are learning a great deal. Hard work pays off.
-
-## Weekly Apprentice Retrospective
-
-Every Friday you'll meet with the other apprentices and Gabe via Google Hangout.
-We discuss how it's going and you get to meet and talk to other apprentices.
-It's a low-pressure way to check in each week.
 
 ## Breakable Toy
 
@@ -272,7 +266,7 @@ regard.
 ## Development Discussions
 
 The Boston office holds weekly development discussions in the upstairs
-conference room from 1-2pm. Upcoming topics for discussion are listed in trello
+conference room from 1-2pm. Upcoming topics for discussion are listed in Trello
 (https://trello.com/b/Ldgkk0rY/development-discussions) and past discussions
 have notes in the Learn forum
 (http://forum.thoughtbot.com/category/dev-discussions-at-thoughtbot). Boston
