@@ -84,10 +84,10 @@ is available in the Library folder in the thoughtbot Dropbox.
 ## Workshops
 
 We encourage learning. We sell workshops and webcasts (both on
-http://learn.thoughtbot.com), which are free for you. You can and should take
+http://upcase.com), which are free for you. You can and should take
 advantage of these.
 
-Ask your mentor to add you to the thoughtbot team in Learn.
+Ask your mentor to add you to the thoughtbot team in Upcase.
 
 # Getting the Most Out of apprentice.io
 
