@@ -6,21 +6,17 @@ apprentices have found helpful.
 We recommend looking through it now and referring back to it later. Think of
 this packet as your Hitchhiker's Guide during your apprenticeship. Don't Panic!
 
-This packet is available at https://github.com/thoughtbot/apprentice-onboarding.
+This packet is available at https://github.com/thoughtbot/apprenticeship.
 Feel free to file a pull request to improve any aspect of it, no matter how tiny.
 
 # The Plan
 
 Your first two months are spent learning. At the end of your second month,
-you'll meet with your office's Managing Director to discuss your next steps.
-During that meeting, you'll be asked "What do you want to do after your
-apprenticeship?"
+you'll meet with your office's Managing Director to discuss your promotion to a
+thoughtbot developer or designer.
 
-If you have decided at that point that thoughtbot is not for you, no worries.
+If either you or we have decided that thoughtbot is not for you, no worries.
 We can work with you over the next month to help find job prospects.
-
-If you want to work at thoughtbot, we will be prepared to either make you an
-offer or tell you there isn't a good spot for you at thoughtbot.
 
 Don't worry! We will do everything we can to make your three months as amazing
 as we can and prepare you for your step after the apprenticeship.
@@ -161,10 +157,10 @@ access to all of them.
 
 ### Google apps
 
-URL: http://google.com/a/apprentice.io
+URL: http://google.com/a/thoughtbot.com
 
-You should have received an email with your email (NAME@apprentice.io) and email
-password.
+You should have received an email with your email (NAME@thoughtbot.com) and
+email password.
 
 We use the calendar extensively - add someone else's calendar to keep
 track of what other people are doing.
@@ -181,32 +177,16 @@ Your GitHub account should have access to private thoughtbot repositories such
 as our blog (robots.thoughtbot.com). You should also have access to your client
 project. Work with your mentor if you do not have access.
 
-### 37signals Suite (Basecamp/Campfire)
+### Slack
 
-37signals runs a suite of applications that we use. You should have received a
-37Signals invitation in your apprentice.io email. Ensure that you have access
-to the following:
+We use [Slack](http://thoughtbot.slack.com) *constantly*. Slack has many rooms,
+each with a specific purpose:
 
-  - Campfire: http://thoughtbot.campfirenow.com/
-  - Basecamp: https://basecamp.com/1719045
-
-If any of those sites give you an error, talk to your mentor.
-
-### Campfire
-
-We use Campfire *constantly*. Use a desktop Campfire client like Propane
-(http://propaneapp.com/) or Flint (http://giantcomet.com/flint/mac/); They are
-much better than the web interface.
-
-Campfire has many rooms, each with a specific purpose:
-
-* Everyone: discuss things that interest everyone. You should be in this room
+* general: discuss things that interest everyone. You should be in this room
   whenever you are working.
-* Code: discussions of code. When asking a question, pasting your code is
-  encouraged.
-* Design: discuss design topics or cool designs that you've encountered.
-* apprentice.io: discuss apprentice-specific topics and talk to other mentors
-  and apprentices.
+* web, oop, fp, xcoders: discussions of code. When asking a question, pasting
+  your code is encouraged.
+* design: discuss design topics or cool designs that you've encountered.
 * Most of the other rooms are specific to projects and are named after the
   project.
 
@@ -215,13 +195,16 @@ everyone's welcome in every room.
 
 ### Basecamp
 
-Basecamp is where we put ideas that we want to discuss, like product ideas or a
+[Basecamp](https://basecamp.com/1719045) is where we put ideas that we want to discuss, like product ideas or a
 new Git workflow. It's also the home for our general company policies,
 non-technical discussion and company announcements.
 
 You should have access to the "Everyone" Basecamp project, which is
 company-wide, and a project for your specific office. You may also have a
 Basecamp project for your client work, depending on the client.
+
+You should have received a Basecamp invitation in your thoughtbot.com email. If
+you any trouble accessing it, talk to your mentor.
 
 ### Trello
 
@@ -260,19 +243,15 @@ know if you have any allergies or dietary restrictions.
 
 If you're having trouble matching names to faces, check out
 http://thoughtbot.com, which has pictures and names of everyone at the
-company (except apprentices). Campfire avatars also tend to be handy in this
+company (except apprentices). Slack avatars also tend to be handy in this
 regard.
 
 ## Development Discussions
 
 The Boston office holds weekly development discussions in the upstairs
 conference room from 1-2pm. Upcoming topics for discussion are listed in Trello
-(https://trello.com/b/Ldgkk0rY/development-discussions) and past discussions
-have notes in the Learn forum
-(http://forum.thoughtbot.com/category/dev-discussions-at-thoughtbot). Boston
+(https://trello.com/b/Ldgkk0rY/development-discussions). Boston
 development apprentices are strongly encouraged to attend and participate.
-Apprentices across all locations can participate in the Learn forum or ask to be
-conferenced into the discussion if interested.
 
 The San Francisco, Denver, and Stockholm offices have similar discussions. Check
 with your mentor for information.
