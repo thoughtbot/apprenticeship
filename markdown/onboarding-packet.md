@@ -204,7 +204,7 @@ company-wide, and a project for your specific office. You may also have a
 Basecamp project for your client work, depending on the client.
 
 You should have received a Basecamp invitation in your thoughtbot.com email. If
-you any trouble accessing it, talk to your mentor.
+you have any trouble accessing it, talk to your mentor.
 
 ### Trello
 
