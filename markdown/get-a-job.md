@@ -32,7 +32,7 @@ also expect to submit a portfolio of work and do some in-person coding/design.
 
 Every company will expect you to share some code samples as part of their
 application process. These take a long time to develop so consider building
-these up over the course of your apprenticship. Your Breakable Toy
+these up over the course of your apprenticeship. Your Breakable Toy
 (see above) is an excellent showcase for your talent.
 
 Guidelines for developers:
@@ -65,11 +65,11 @@ Some general guidelines:
   home.
 * Clean it up. The classic image of the developer has them wearing T-shirts and
   jeans on a scooter, but if you put on a shirt and maybe a jacket, it shows you
-  care what the interviewee thinks of you.
+  care what the interviewer thinks of you.
 * You should care about specific choices and demonstrate reasoning to support
   them
-* Conversely, you should also be flexible and open minded when considering
-  other's opinions, not combatative or dogmatic.
+* Conversely, you should also be flexible and open-minded when considering
+  other's opinions, not combative or dogmatic.
 * Say so if you don't know the answer, but then try to reason through an answer
   *out loud* or discuss where you would find an answer.
 * You should research the company and your interviewer deeply. Know their online
@@ -85,7 +85,7 @@ Some questions to expect during a developer interview:
 * What's your favorite gem?
 * If you could remove one feature from Ruby, what would it be?
 * Sample SQL questions like "Given Tables XYZ, how would you select A's but not B's?"
-* What editor do you use? What are it's advantages and disadvantages?
+* What editor do you use? What are its advantages and disadvantages?
 * What causes brittle tests?
 * What is a stub/mock/fake? When would you use each one?
 
@@ -93,7 +93,7 @@ Our internal list of interview questions is here: https://thoughtbot.backpackit.
 
 ### How to Reach Out to Companies
 
-Wherever possible, you should have someone you know introduce you to to a
+Wherever possible, you should have someone you know introduce you to a
 company. It gets you out of the pile of resumes/submissions and puts a credible
 face on your candidacy.
 
