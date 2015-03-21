@@ -93,7 +93,7 @@ Our internal list of interview questions is here: https://thoughtbot.backpackit.
 
 ### How to Reach Out to Companies
 
-Wherever possible, you should have someone you know introduce you to to a
+Wherever possible, you should have someone you know introduce you to a
 company. It gets you out of the pile of resumes/submissions and puts a credible
 face on your candidacy.
 
