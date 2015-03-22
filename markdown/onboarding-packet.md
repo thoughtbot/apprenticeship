@@ -106,7 +106,7 @@ is a side Rails project you are excited/passionate about.
 
 This project should be an anchor to your learning, allowing you to raise new
 questions and a place to apply new skills/techniques. To get the most out of it,
-you should put the code in Github and give your mentors and apprentice cohort
+you should put the code in GitHub and give your mentors and apprentice cohort
 access to the project. You should also deploy it to Heroku.
 
 There is no expectation for other apprentices to contribute to your project, but
@@ -207,7 +207,7 @@ company-wide, and a project for your specific office. You may also have a
 Basecamp project for your client work, depending on the client.
 
 You should have received a Basecamp invitation in your thoughtbot.com email. If
-you any trouble accessing it, talk to your mentor.
+you have any trouble accessing it, talk to your mentor.
 
 ### Trello
 
@@ -265,7 +265,7 @@ The Boston Ruby Group (bostonrb.org/calendar) meets every other Tuesday,
 alternating project nights (where people hack together) and presentations.
 It's a great place to learn something, as well as to practice your public
 speaking by submitting a talk. Speaking at Boston.rb is great practice since
-it's a smallish, friendly audience, and it gives your resume a nice bump.
+it's a smallish, friendly audience, and it gives your résumé a nice bump.
 
 The Boston.rb project nights are hosted at the thoughtbot office, which makes
 them very easy to attend.
