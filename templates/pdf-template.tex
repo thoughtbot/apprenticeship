@@ -2,6 +2,11 @@
 
 % Fonts and typography
 
+% Lists
+\usepackage{listings}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 %% Typography
 \usepackage[no-math]{fontspec}
 \defaultfontfeatures{Mapping = tex-text, Scale = MatchLowercase}
@@ -27,7 +32,6 @@
 %% Start sections from new page
 \let\stdsection\section
 \renewcommand\section{\newpage\stdsection}
-
 
 % Colors
 
