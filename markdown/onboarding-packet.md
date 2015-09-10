@@ -184,20 +184,23 @@ each with a specific purpose:
 
 * general: discuss things that interest everyone. You should be in this room
   whenever you are working.
-* web, oop, fp, xcoders: discussions of code. When asking a question, pasting
+* dev, ruby, xcoders: discussions of code. When asking a question, pasting
   your code is encouraged.
 * design: discuss design topics or cool designs that you've encountered.
+* catrs: funny links and off-topic discussions.
+* san-francisco, boston, denver, raleigh, philly: Location-specific discussions,
+  like lunch.
 * Most of the other rooms are specific to projects and are named after the
   project.
 
-Both designers and developers should check out both the Code and Design rooms -
-everyone's welcome in every room.
+Both designers and developers should check out both the `development` and
+`design` channels - everyone's welcome in every channel.
 
 ### Basecamp
 
-[Basecamp](https://basecamp.com/1719045) is where we put ideas that we want to discuss, like product ideas or a
-new Git workflow. It's also the home for our general company policies,
-non-technical discussion and company announcements.
+[Basecamp](https://basecamp.com/1719045) is where we put ideas that we want to
+discuss, like product ideas or a new Git workflow. It's also the home for our
+general company policies, non-technical discussion and company announcements.
 
 You should have access to the "Everyone" Basecamp project, which is
 company-wide, and a project for your specific office. You may also have a
