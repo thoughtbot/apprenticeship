@@ -2,9 +2,9 @@
 
 We use Namely to gather feedback from mentors at the end of their rotation.
 
-To setup the review, go to [the Namely Review Creation page][reviews].
+To setup the assessment, go to [the Namely Review Creation page][reviews].
 
-## Conduct a Review
+## Conduct an Assessment
 
 * Choose A Reviewee: Select the apprentice getting reviewed
 * Template For The Reviewee: Choose "Apprentice Self Review".
