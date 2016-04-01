@@ -121,7 +121,7 @@ someone wants to work with you!
 Investment time is time for investment in ourselves, our company, and our
 community. This can include:
 
- * Contibuting to Thoughtbot's open-source projects, internal tools, or paid
+ * Contributing to thoughtbot's open-source projects, internal tools, or paid
    products
  * Learning a new language or skill on Upcase or from a book in the Library
    Dropbox folder
