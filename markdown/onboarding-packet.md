@@ -116,12 +116,21 @@ A team that has a designer apprentice and a developer apprentice has worked very
 well for both designer and developer in the past.  Don't be afraid to ask if
 someone wants to work with you!
 
-## Investment Days
+## Investment Time
 
-You should use investment days to work on open-source projects, or internal
-thoughtbot projects. For a list of ideas, you should look at the **Apprentice.io
-Projects** Trello board (https://trello.com). As always, if you don't
-see it there, ask your mentor for help.
+Investment time is time for investment in ourselves, our company, and our
+community. This can include:
+
+ * Contibuting to Thoughtbot's open-source projects, internal tools, or paid
+   products
+ * Learning a new language or skill on Upcase or from a book in the Library
+   Dropbox folder
+ * Working on your breakable toy
+
+Investment time is also a great opportunity to pair with someone new. For a
+list of even more ideas, you should look at the Investment Time Trello board
+(https://trello.com/b/ar8zjQ9R/investment-time) or read the "Investment Time"
+section of the playbook (https://playbook.thoughtbot.com#investment).
 
 ## Feedback
 
