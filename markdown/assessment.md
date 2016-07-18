@@ -43,8 +43,8 @@ To setup the assessment, go to [the Namely Review Creation page][reviews].
 
 ## Permission Options
 
-* Hide Reviewers' Identities From One Another: Unchecked
-* Make Totally Anonymous Review: Unchecked
+* Hide Reviewers' Identities From One Another: **Checked**
+* Make Totally Anonymous Review: **Checked**
 
 ## Summarization Options
 
