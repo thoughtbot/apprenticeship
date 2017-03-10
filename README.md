@@ -55,7 +55,7 @@ To build a new PDF and release it to GitHub:
 
 Thank you, [contributors](https://github.com/thoughtbot/apprenticeship/graphs/contributors)!
 
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
+![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
 
 This repository is maintained by [thoughtbot, inc](http://thoughtbot.com).
 
