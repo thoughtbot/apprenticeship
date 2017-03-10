@@ -32,6 +32,7 @@ Good:
 Requirements:
 
 * [Pandoc](http://johnmacfarlane.net/pandoc/installing.html)
+  - Can be installed via homebrew with `brew install pandoc`
 * LaTeX
   - Use [BasicTeX](http://www.tug.org/mactex/morepackages.html), which is a much
     smaller download than full LaTeX.

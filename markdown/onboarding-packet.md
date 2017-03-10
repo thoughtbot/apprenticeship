@@ -179,7 +179,7 @@ project. Work with your mentor if you do not have access.
 
 ### Slack
 
-We use [Slack](http://thoughtbot.slack.com) *constantly*. Slack has many rooms,
+We use Slack (http://thoughtbot.slack.com) *constantly*. Slack has many rooms,
 each with a specific purpose:
 
 * general: discuss things that interest everyone. You should be in this room
@@ -198,7 +198,7 @@ Both designers and developers should check out both the `development` and
 
 ### Basecamp
 
-[Basecamp](https://basecamp.com/1719045) is where we put ideas that we want to
+Basecamp (https://basecamp.com/1719045) is where we put ideas that we want to
 discuss, like product ideas or a new Git workflow. It's also the home for our
 general company policies, non-technical discussion and company announcements.
 
@@ -208,6 +208,12 @@ Basecamp project for your client work, depending on the client.
 
 You should have received a Basecamp invitation in your thoughtbot.com email. If
 you have any trouble accessing it, talk to your mentor.
+
+### Constable
+
+We use Constable (https://constable.io/) for announcements specific to certain interests,
+and may eventually replace Basecamp. You can login using Google authentication
+with your thoughtbot email.
 
 ### Trello
 
