@@ -11,7 +11,7 @@ Great! Here's how you use this:
 * Make sure they know that we'd love feedback on this content
 * Encourage your apprentice to read through the repo, but it's a reference, not
   a novel. Think of how you'd read a dictionary
-* You should read [mentor-handbook.md]
+* You should read the [mentor handbook](mentor-handbook.md)
 
 # Credits
 
