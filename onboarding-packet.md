@@ -1,4 +1,4 @@
-# Welcome to apprentice.io!
+# Welcome to Your Apprenticeship
 
 We're excited to have you here. This packet contains information that past
 apprentices have found helpful.
@@ -6,14 +6,14 @@ apprentices have found helpful.
 We recommend looking through it now and referring back to it later. Think of
 this packet as your Hitchhiker's Guide during your apprenticeship. Don't Panic!
 
-This packet is available at https://github.com/thoughtbot/apprenticeship.
+This packet is available at [https://github.com/thoughtbot/apprenticeship].
 Feel free to file a pull request to improve any aspect of it, no matter how tiny.
 
 # The Plan
 
 Your first two months are spent learning. At the end of your second month,
-you'll meet with your office's Managing Director to discuss your promotion to a
-thoughtbot developer or designer.
+you'll meet with your Director to discuss your promotion to a thoughtbot
+developer or designer.
 
 If either you or we have decided that thoughtbot is not for you, no worries.
 We can work with you over the next month to help find job prospects.
@@ -39,12 +39,13 @@ smaller, specific goals. You should work with your mentor to set these and track
 your progress against them.
 
 For an example of how previous apprentices have done this, see the
-apprentice-goals project on GitHub
-(https://github.com/thoughtbot/apprentice-goals). You should consider forking
-that repository to contribute your own goals.
+[apprentice-goals project](https://github.com/thoughtbot/apprentice-goals) on
+GitHub. You should consider creating a pull request in that repository to
+contribute your own goals.
 
-When you switch mentors, you will have a Mentor Hand-off. This is a meeting with
-both mentors to talk through the previous month and the plan for the next month.
+When you switch mentors, you will have a Mentor Hand-off meeting. This is a
+meeting with both mentors to talk through the previous month and the plan for
+the next month.
 
 ## Pairing during the week
 
@@ -79,13 +80,15 @@ is available in the Library folder in the thoughtbot Dropbox.
 
 ## Workshops
 
-We encourage learning. We sell workshops and webcasts (both on
-http://upcase.com), which are free for you. You can and should take
-advantage of these.
+We encourage learning. We sell workshops and webcasts
+[Upcase](https://thoughtbot.com/upcase), thoughtbot's subscription learning
+platform. These are free to all thoughtbot employees and you are encouraged to
+take advantage of them.
 
-Ask your mentor to add you to the thoughtbot team in Upcase.
+Ask your mentor to add you to the thoughtbot team in Upcase if you do not
+already have access.
 
-# Getting the Most Out of apprentice.io
+# Getting the Most Out of Your Apprenticeship
 
 ## Expectations
 
@@ -101,8 +104,8 @@ are learning a great deal. Hard work pays off.
 
 ## Breakable Toy
 
-A Breakable Toy (http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html)
-is a side Rails project you are excited/passionate about.
+A [Breakable Toy](http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html)
+is a side project you are excited and passionate about.
 
 This project should be an anchor to your learning, allowing you to raise new
 questions and a place to apply new skills/techniques. To get the most out of it,
@@ -118,10 +121,10 @@ someone wants to work with you!
 
 ## Investment Days
 
-You should use investment days to work on open-source projects, or internal
-thoughtbot projects. For a list of ideas, you should look at the **Apprentice.io
-Projects** Trello board (https://trello.com). As always, if you don't
-see it there, ask your mentor for help.
+thoughtbot is proud to offer employees unguided [investment
+time](https://robots.thoughtbot.com/investment-time). Team members
+generally take this time to work on open source projects, blog posts, internal
+thoughtbot projects or to participate in lightning talks, book clubs, etc.
 
 ## Feedback
 
@@ -129,22 +132,22 @@ It's not easy, but you should get comfortable asking for and receiving feedback.
 People are nice and none of it is personal. It's a great way to develop
 professionally.
 
-# Tools and Weapons
+# Tools
 
 ## Laptop setup
 
 Your mentor will help you get your laptop set up. We recommend the laptop script
-available at https://github.com/thoughtbot/laptop.
+available at [https://github.com/thoughtbot/laptop].
 
 ### Dotfiles
 
-Dotfiles are the files in your home directory (referred to as `~`) that start
-with a dot, like `~/.bashrc`. They are used to configure various programs, e.g.
-`~/.vimrc` sets some global options for Vim. Take a look at thoughtbot's
-dotfiles (https://github.com/thoughtbot/dotfiles), and feel free to fork them.
+Dotfiles are the files in your home directory (referred to as "~") that start
+with a dot, like "~/.bashrc". They are used to configure various programs, e.g.
+"~/.vimrc" sets some global options for Vim. Take a look at [thoughtbot's
+dotfiles](https://github.com/thoughtbot/dotfiles), and feel free to fork them.
 We also encourage you to check out your coworkers' dotfiles for inspiration. For
-example, Josh Clayton has an extensive configuration for tmux in his dotfiles:
-https://github.com/joshuaclayton/dotfiles/blob/master/tmux.conf.
+example, Josh Clayton has an extensive configuration for tmux in [his dotfiles]
+(https://github.com/joshuaclayton/dotfiles/blob/master/tmux.conf).
 
 ## Logins
 
@@ -157,15 +160,13 @@ access to all of them.
 
 ### Google apps
 
-URL: http://google.com/a/thoughtbot.com
-
 You should have received an email with your email (NAME@thoughtbot.com) and
 email password.
 
 We use the calendar extensively - add someone else's calendar to keep
 track of what other people are doing.
 
-### Dropbox (http://dropbox.com)
+### Dropbox
 
 You have access to the "Library" Dropbox folder. This folder contains workshops,
 books, papers, and other resources that we've purchased in the past and now
@@ -188,36 +189,37 @@ each with a specific purpose:
   your code is encouraged.
 * #design: discuss design topics or cool designs that you've encountered.
 * #catrs: funny links and off-topic discussions.
-* #san-francisco, #boston, #nyc, #raleigh, #london: Location-specific discussions,
-  like lunch.
+* #austin, #boston, #london, #nyc, #raleigh, #sanfrancisco: Location-specific
+  discussions, like lunch.
 * Most of the other rooms are specific to projects and are named after the
   project.
 
-Both designers and developers should check out both the #dev and
-#design channels - everyone's welcome in every channel.
+Both designers and developers should check out both the #dev and #design
+channels - everyone is welcome in every channel.
 
 ### Constable
 
-[Constable](https://constable.io) is where we put ideas that we want to
-discuss, like product ideas or a new Git workflow. It's also the home for
-non-technical discussion and company announcements.
+We use [Constable](https://constable.io) for company wide announcements and
+other asynchronous topics of discussion relating to various
+[interests](https://constable.io/interests). You should be sure to subscribe to
+the interest relating to your office so you are promptly notified of any
+important local news.
 
 ### Trello
 
 Most of our client and internal projects use Trello boards for project
 management. If you don't already have a Trello account, you can log in using
-your apprentice.io email. Your mentor should help you get access to the boards
-you need. You should have access to the Trello board (or other project
-management system if appropriate) for your client project and also several
-internal thoughtbot boards (Development Discussions, Research, Apprentice.io
-Projects, robots.thoughtbot.com, etc.).
+your thoughtbot email. Your mentor should help you get access to the boards you
+need. You should have access to the Trello board (or other project management
+system if appropriate) for your client project and also several internal
+thoughtbot boards.
 
 # Community
 
 Part of your apprenticeship is learning to be part of a development community.
 This could be a Ruby Meetup Group, company, or project team.
 
-## Meeting people is easy
+## Meeting People
 
 We are a friendly bunch and we'd like to get to know you better! That being
 said, it's easy to feel intimidated or uncomfortable in a new environment. Some
@@ -238,23 +240,13 @@ know if you have any allergies or dietary restrictions.
 ## Who?
 
 If you're having trouble matching names to faces, check out
-http://thoughtbot.com, which has pictures and names of everyone at the
-company (except apprentices). Slack avatars also tend to be handy in this
+[http://thoughtbot.com/locations], which has pictures and names of everyone at
+the company (except apprentices). Slack avatars also tend to be handy in this
 regard.
-
-## Development Discussions
-
-The Boston office holds weekly development discussions in the upstairs
-conference room from 1-2pm. Upcoming topics for discussion are listed in Trello
-(https://trello.com/b/Ldgkk0rY/development-discussions). Boston
-development apprentices are strongly encouraged to attend and participate.
-
-The San Francisco office has similar discussions. Check
-with your mentor for information.
 
 ## Boston.rb
 
-The Boston Ruby Group (bostonrb.org/calendar) meets every other Tuesday,
+The [Boston Ruby Group](http://bostonrb.org/calendar) meets every other Tuesday,
 alternating project nights (where people hack together) and presentations.
 It's a great place to learn something, as well as to practice your public
 speaking by submitting a talk. Speaking at Boston.rb is great practice since
@@ -263,7 +255,7 @@ it's a smallish, friendly audience, and it gives your résumé a nice bump.
 The Boston.rb project nights are hosted at the thoughtbot office, which makes
 them very easy to attend.
 
-# Improve apprentice.io
+# Improve The Apprentice Program
 
 We encourage you to propose changes to the apprentice process, including hiring,
 onboarding, and anything else that you think could be better. Everyone at
@@ -273,5 +265,5 @@ As an apprentice, you have much better insight into what could make the process
 better for you than does someone who's been working here for five years.
 
 Feedback is always, always appreciated on everything at thoughtbot. If you have
-feedback on the overall apprentice program, please contact Gabe Berke-Williams,
-the head of the apprentice.io program.
+feedback on the overall apprentice program, please discuss the issue with your
+mentor, or open an issue on this repository.
