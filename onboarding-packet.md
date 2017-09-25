@@ -179,35 +179,28 @@ project. Work with your mentor if you do not have access.
 
 ### Slack
 
-We use [Slack](http://thoughtbot.slack.com) *constantly*. Slack has many rooms,
+We use [Slack](http://thoughtbot.slack.com) *constantly*. Slack has many channels,
 each with a specific purpose:
 
-* general: discuss things that interest everyone. You should be in this room
+* #general: discuss things that interest everyone. You should be in this room
   whenever you are working.
-* dev, ruby, xcoders: discussions of code. When asking a question, pasting
+* #dev, #ruby, #xcoders: discussions of code. When asking a question, pasting
   your code is encouraged.
-* design: discuss design topics or cool designs that you've encountered.
-* catrs: funny links and off-topic discussions.
-* san-francisco, boston, denver, raleigh, philly: Location-specific discussions,
+* #design: discuss design topics or cool designs that you've encountered.
+* #catrs: funny links and off-topic discussions.
+* #san-francisco, #boston, #nyc, #raleigh, #london: Location-specific discussions,
   like lunch.
 * Most of the other rooms are specific to projects and are named after the
   project.
 
-Both designers and developers should check out both the `development` and
-`design` channels - everyone's welcome in every channel.
+Both designers and developers should check out both the #dev and
+#design channels - everyone's welcome in every channel.
 
-### Basecamp
+### Constable
 
-[Basecamp](https://basecamp.com/1719045) is where we put ideas that we want to
-discuss, like product ideas or a new Git workflow. It's also the home for our
-general company policies, non-technical discussion and company announcements.
-
-You should have access to the "Everyone" Basecamp project, which is
-company-wide, and a project for your specific office. You may also have a
-Basecamp project for your client work, depending on the client.
-
-You should have received a Basecamp invitation in your thoughtbot.com email. If
-you have any trouble accessing it, talk to your mentor.
+[Constable](https://constable.io) is where we put ideas that we want to
+discuss, like product ideas or a new Git workflow. It's also the home for
+non-technical discussion and company announcements.
 
 ### Trello
 
@@ -239,7 +232,7 @@ things you should try:
 
 ### Friday Lunches
 
-We order lunch for the whole office each Friday! Please let our office manager
+We order lunch for the whole office each Friday! Please let your office manager
 know if you have any allergies or dietary restrictions.
 
 ## Who?
@@ -256,7 +249,7 @@ conference room from 1-2pm. Upcoming topics for discussion are listed in Trello
 (https://trello.com/b/Ldgkk0rY/development-discussions). Boston
 development apprentices are strongly encouraged to attend and participate.
 
-The San Francisco, Denver, and Stockholm offices have similar discussions. Check
+The San Francisco office has similar discussions. Check
 with your mentor for information.
 
 ## Boston.rb
