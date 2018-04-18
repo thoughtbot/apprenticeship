@@ -80,7 +80,7 @@ is available in the Library folder in the thoughtbot Dropbox.
 
 ## Workshops
 
-We encourage learning. We sell workshops and webcasts
+We encourage learning. We sell workshops and webcasts on
 [Upcase](https://thoughtbot.com/upcase), thoughtbot's subscription learning
 platform. These are free to all thoughtbot employees and you are encouraged to
 take advantage of them.
