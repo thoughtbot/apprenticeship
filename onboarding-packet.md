@@ -38,11 +38,6 @@ apprenticeship on an overall basis as well as to maintain a weekly list of
 smaller, specific goals. You should work with your mentor to set these and track
 your progress against them.
 
-For an example of how previous apprentices have done this, see the
-[apprentice-goals project](https://github.com/thoughtbot/apprentice-goals) on
-GitHub. You should consider creating a pull request in that repository to
-contribute your own goals.
-
 When you switch mentors, you will have a Mentor Hand-off meeting. This is a
 meeting with both mentors to talk through the previous month and the plan for
 the next month.
