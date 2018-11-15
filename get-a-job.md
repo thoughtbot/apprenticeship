@@ -97,14 +97,16 @@ Wherever possible, you should have someone you know introduce you to a
 company. It gets you out of the pile of resumes/submissions and puts a credible
 face on your candidacy.
 
-Everyone will ask you what apprentice.io is about. Prepare a 2-3 sentence
-description of what it's like.
+Everyone will ask you what [a thoughtbot apprenticeship] is about. Prepare a
+2-3 sentence description of what it's like.
 
 A good email should be short and to the point. "Hey, I'm an apprentice at
 thoughtbot and preparing to look for a job as a developer/designer. I'm
 a big fan of your company because of XYZ concrete reasons. If you have some
 time to meet or speak on the phone, I'd love to ask you some questions about
 your company."
+
+[a thoughtbot apprenticeship]: https://apprentice.thoughtbot.com
 
 ### Networking
 
