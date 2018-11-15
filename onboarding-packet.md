@@ -19,7 +19,7 @@ If either you or we have decided that thoughtbot is not for you, no worries.
 We can work with you over the next month to help find job prospects.
 
 Don't worry! We will do everything we can to make your three months as amazing
-as we can and prepare you for your step after the apprenticeship.
+as we can and prepare you for your next step after the apprenticeship.
 
 ## Your mentor
 
@@ -70,15 +70,14 @@ client work to do some self-guided learning. This can include reading material
 from books, attending workshops, or learning about and trying out a technique
 or library.
 
-For reading material, we recommend starting with Apprenticeship Patterns, which
-is available in the Library folder in the thoughtbot Dropbox.
+For reading material, we recommend starting with [Apprenticeship Patterns](https://www.dropbox.com/preview/Library/Books/Apprenticeship%20Patterns/Apprenticeship_Patterns.epub), which
+is available in the Library/Books/Apprenticeship Patterns [folder](https://www.dropbox.com/preview/Library/Books/Apprenticeship%20Patterns/) in the thoughtbot Dropbox.
 
 ## Workshops
 
-We encourage learning. We sell workshops and webcasts on
-[Upcase](https://thoughtbot.com/upcase), thoughtbot's subscription learning
-platform. These are free to all thoughtbot employees and you are encouraged to
-take advantage of them.
+We encourage learning. We have workshops and webcasts on
+[Upcase](https://thoughtbot.com/upcase), thoughtbot's online learning
+platform. These are free and you are encouraged to take advantage of them.
 
 Ask your mentor to add you to the thoughtbot team in Upcase if you do not
 already have access.
@@ -94,7 +93,7 @@ There is some structure to guide you through the program and also people
 available to help you along the way, but the engine of this experience is your
 effort. Learning should take up some of your evening/weekend time.
 
-You should expect this to be a mentally intense period of your life where you
+You should expect this to be a mentally-intense period of your life where you
 are learning a great deal. Hard work pays off.
 
 ## Breakable Toy
@@ -163,9 +162,10 @@ track of what other people are doing.
 
 ### Dropbox
 
-You have access to the "Library" Dropbox folder. This folder contains workshops,
-books, papers, and other resources that we've purchased in the past and now
-share with everyone at thoughtbot. It's an easy way to learn something for free.
+You have access to the [Library](https://www.dropbox.com/home/Library) Dropbox folder.
+This folder contains workshops, books, papers, and other resources that we've purchased 
+in the past and now share with everyone at thoughtbot. It's an easy way to learn something 
+for free.
 
 ### GitHub
 
@@ -194,7 +194,7 @@ channels - everyone is welcome in every channel.
 
 ### Constable
 
-We use [Constable](https://constable.io) for company wide announcements and
+We use [Constable](https://constable.io) for company-wide announcements and
 other asynchronous topics of discussion relating to various
 [interests](https://constable.io/interests). You should be sure to subscribe to
 the interest relating to your office so you are promptly notified of any

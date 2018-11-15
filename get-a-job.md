@@ -4,7 +4,7 @@ Our goal is to get you to the point where you can join thoughtbot as a full
 developer or designer.
 
 At the end of your second month, you'll meet with your office's Managing
-Director to discuss your next steps.  During that meeting, you'll be asked "What
+Director to discuss your next steps.  During that meeting, you'll be asked, "What
 do you want to do after your apprenticeship?"
 
 One of our goals is to help you land a developer/designer job at the end of
@@ -44,10 +44,10 @@ Guidelines for developers:
 * Pay extra attention to getting formatting right
 * Make sure you've got tests for everything
 * Mock external services like Twitter/GitHub using ShamRack or VCR
-* Make sure your commit history is clean e.g. no typos, no "wip" etc
+* Make sure your commit history is clean (e.g., no typos, no "wip", etc.)
 * Demonstrate use of feature branches and merging, even if it's just you
 
-Questions You Will Get on Your Ruby Code Sample:
+Questions you will get on your Ruby code sample:
 * What do you like about your code sample? Why?
 * What would you change and why?
 
@@ -55,7 +55,7 @@ Questions You Will Get on Your Ruby Code Sample:
 
 Technical interviews will run the gamut from very esoteric to very specific. You should be prepared for all of it.
 
-Thoughtbot developers are available to do mock technical interviews with you.
+thoughtbot developers are available to do mock technical interviews with you.
 Ask your mentor to set this up.
 
 Some general guidelines:
@@ -67,9 +67,9 @@ Some general guidelines:
   jeans on a scooter, but if you put on a shirt and maybe a jacket, it shows you
   care what the interviewer thinks of you.
 * You should care about specific choices and demonstrate reasoning to support
-  them
+  them.
 * Conversely, you should also be flexible and open-minded when considering
-  other's opinions, not combative or dogmatic.
+  others' opinions, not combative or dogmatic.
 * Say so if you don't know the answer, but then try to reason through an answer
   *out loud* or discuss where you would find an answer.
 * You should research the company and your interviewer deeply. Know their online
@@ -77,14 +77,14 @@ Some general guidelines:
   any of this up in conversation casually wherever appropriate. Don't force it
   and be a weirdo.
 * Prepare some good questions for when they ask you for them. Good questions are
-  not generic or open-ended, demonstrate critical thinking about something they
+  not generic or open-ended and demonstrate critical thinking about something they
   do, understanding of their product/competitors, or are otherwise thoughtful.
 
 Some questions to expect during a developer interview:
 
 * What's your favorite gem?
 * If you could remove one feature from Ruby, what would it be?
-* Sample SQL questions like "Given Tables XYZ, how would you select A's but not B's?"
+* Sample SQL questions like, "Given tables XYZ, how would you select A's but not B's?"
 * What editor do you use? What are its advantages and disadvantages?
 * What causes brittle tests?
 * What is a stub/mock/fake? When would you use each one?
@@ -101,7 +101,7 @@ Everyone will ask you what apprentice.io is about. Prepare a 2-3 sentence
 description of what it's like.
 
 A good email should be short and to the point. "Hey, I'm an apprentice at
-thoughtbot and getting prepared to look for a job as a developer/designer. I'm
+thoughtbot and preparing to look for a job as a developer/designer. I'm
 a big fan of your company because of XYZ concrete reasons. If you have some
 time to meet or speak on the phone, I'd love to ask you some questions about
 your company."
@@ -122,7 +122,7 @@ Basics of Networking:
   Respond in a positive, short way.
 * If you don't have anything to talk about with someone, keep asking the other
   person questions.
-* Use "Well I'm going to go get a drink" whenever you don't feel like talking
+* Use "Well, I'm going to go get a drink" whenever you don't feel like talking
   anymore to someone.
 * Email *everyone* you get a card from to say "Hey" and you're glad you met.
 * Give your card out liberally. If you don't have one, get some made.
@@ -130,7 +130,7 @@ Basics of Networking:
 * Stay in touch. If an article reminds you of someone or you think they would find it interesting, send it to them.
 * Set up periodic reminders to prompt you to get in touch with people you like
   and who can be helpful to you. Every 2-3 months is appropriate. Try
-  http://followup.cc .
+  http://followup.cc.
 * Everyone will take a coffee meeting with you. Ask them.
 
 If you don't know anyone at a company of interest, you should get to know them
@@ -144,7 +144,7 @@ company you're looking at.
 
 Some things to think about:
 
-* Product shop vs. Development Consultants - very different jobs.
+* Product Shop vs. Development Consultants - very different jobs
 * Recent turnover
 * Good feeling and positive attitude from interviewers
 * Refreshed-looking interviewers
